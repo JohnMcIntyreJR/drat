@@ -7,11 +7,11 @@ NeedsCompilation: no
 
 Package: jrIntroduction
 Version: 0.1.0
-Depends: R (>= 3.1.0)
+Depends: R (>= 3.1.0),
 Imports: ggplot2movies
-Suggests: knitr
+Suggests: knitr, tufte, rmarkdown, tidyverse, readr
 License: GPL-3
-MD5sum: a4418eb62a2293ded75ee76081678714
+MD5sum: bfbf28f2bfb4be85782185f36a9bf24e
 NeedsCompilation: no
 
 Package: jrProgramming
