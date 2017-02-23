@@ -20,6 +20,6 @@ Depends: R (>= 3.0.0)
 Imports: ggplot2movies
 Suggests: knitr
 License: GPL-3
-MD5sum: 6722e6e944ab3030d89d5b84fdaf7e8e
+MD5sum: c8a59ffaed87d638019baf2e9ad376d3
 NeedsCompilation: no
 
