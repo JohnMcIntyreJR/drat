@@ -6,12 +6,12 @@ MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
 
 Package: jrIntroduction
-Version: 0.1.1
+Version: 0.1.2
 Depends: R (>= 3.1.0),
-Imports: ggplot2movies, tidyverse (>= 1.1.1)
-Suggests: knitr, tufte, rmarkdown, readr
+Imports: ggplot2movies, tidyverse (>= 1.1.1), readr
+Suggests: knitr, tufte, rmarkdown
 License: GPL-3
-MD5sum: b0a38fe8dd69d7acb52dc1cf1ca213be
+MD5sum: 40c82a2d53e92c9e25d4ac72c5a10942
 NeedsCompilation: no
 
 Package: jrProgramming
