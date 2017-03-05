@@ -11,7 +11,7 @@ Depends: R (>= 3.1.0),
 Imports: ggplot2movies, tidyverse (>= 1.1.1), readr, readxl
 Suggests: knitr, tufte, rmarkdown
 License: GPL-3
-MD5sum: a2e1fbd1b3c48e946f12193c74bf54e4
+MD5sum: e416552525f3560d858d50adf0daa8b5
 NeedsCompilation: no
 
 Package: jrProgramming
