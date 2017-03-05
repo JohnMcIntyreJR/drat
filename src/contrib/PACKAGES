@@ -20,6 +20,6 @@ Depends: R (>= 3.1.0)
 Imports: ggplot2movies
 Suggests: knitr, tufte, rmarkdown, tidyverse
 License: GPL-3
-MD5sum: fb90a29b0bb00876401c52c9f13e6985
+MD5sum: bc5918f74403044276a97d117af51103
 NeedsCompilation: no
 
