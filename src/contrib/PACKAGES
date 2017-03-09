@@ -18,8 +18,8 @@ Package: jrProgramming
 Version: 0.1.2
 Depends: R (>= 3.1.0)
 Imports: ggplot2movies
-Suggests: knitr, tufte, rmarkdown, tidyverse
+Suggests: knitr, tufte, rmarkdown, tidyverse, dplyr
 License: GPL-3
-MD5sum: 95e6dfa5201abae0c01623176374b888
+MD5sum: f1008be96fb0431506df6f654f54067e
 NeedsCompilation: no
 
