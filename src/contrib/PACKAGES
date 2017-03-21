@@ -13,7 +13,7 @@ Imports: dplyr, ff, ffbase, readr, pryr, stats, microbenchmark,
 Suggests: Rcpp, knitr, rmarkdown, bigvis, tabplot, RSQLite, data.table,
         sparklyr, nycflights13, DBI, ggplot2movies
 License: GPL-2
-MD5sum: b79002cb1c59fb511cbf5a52eccbff2f
+MD5sum: 4c1e04ad3764caad12959d6586573f66
 NeedsCompilation: no
 
 Package: jrIntroduction
