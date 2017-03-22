@@ -43,6 +43,6 @@ Suggests: knitr, shiny, formattable, edgebundleR,
         MASS, htmlwidgets, ggiraph, sparkline, rmarkdown,
         flexdashboard,plotly,dygraphs, rsconnect, revealjs
 License: CC0
-MD5sum: 00c50951dc2b0b32f5b88e7ea2447e0c
+MD5sum: 36af19b6f3643b3249986f4464bdc1ce
 NeedsCompilation: no
 
