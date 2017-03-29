@@ -34,6 +34,14 @@ License: GPL-3
 MD5sum: f1008be96fb0431506df6f654f54067e
 NeedsCompilation: no
 
+Package: jrRstan
+Version: 0.1.0
+Depends: plyr, stats, grDevices, graphics
+Suggests: Rdpack, R.rsp
+License: GPL-3 | GPL-2
+MD5sum: 76b9d27ccb07f6b40ee4dc2ea4a9c313
+NeedsCompilation: no
+
 Package: jrShiny
 Version: 0.1.1
 Depends: R (>= 3.3)
