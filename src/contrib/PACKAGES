@@ -39,7 +39,7 @@ Version: 0.1.0
 Depends: plyr, stats, grDevices, graphics
 Suggests: Rdpack, R.rsp
 License: GPL-3 | GPL-2
-MD5sum: 76b9d27ccb07f6b40ee4dc2ea4a9c313
+MD5sum: 981c2a3dfdada50b5f45151d44dfa22f
 NeedsCompilation: no
 
 Package: jrShiny
