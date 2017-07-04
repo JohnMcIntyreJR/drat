@@ -11,7 +11,7 @@ Depends: R (>= 3.3)
 Imports: Rcpp, profvis, microbenchmark
 Suggests: knitr, readr, rmarkdown
 License: GPL-2
-MD5sum: 3aa51a41dd2abccfc124ba264b2b0453
+MD5sum: 8493b3f24877593329f9fad5eb9e9dd6
 NeedsCompilation: no
 
 Package: jrBig
