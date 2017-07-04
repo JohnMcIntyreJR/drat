@@ -5,6 +5,15 @@ License: GPL (>= 2)
 MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
 
+Package: efficientTutorial
+Version: 0.1.0
+Depends: R (>= 3.3)
+Imports: Rcpp, profvis, microbenchmark
+Suggests: knitr, readr, rmarkdown
+License: GPL-2
+MD5sum: 690facd30ffafbfe962b583c569dd623
+NeedsCompilation: no
+
 Package: jrBig
 Version: 0.1.2
 Depends: R (>= 3.3)
@@ -53,4 +62,3 @@ Suggests: knitr, shiny, formattable, edgebundleR,
 License: CC0
 MD5sum: c771071dffe2c831d93db3ac61fe3c37
 NeedsCompilation: no
-
