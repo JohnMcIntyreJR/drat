@@ -43,6 +43,15 @@ License: GPL-3
 MD5sum: 436c7b6ee47a3d0c54acca8a3996ace6
 NeedsCompilation: no
 
+Package: jrModelling
+Version: 0.1.0
+Depends: R (>= 3.2.0)
+Imports: coin, shiny, ggplot2, titanic
+Suggests: survival, knitr
+License: GPL-3 | GPL-2
+MD5sum: 848497b6b57cec8023b9a226a8347b85
+NeedsCompilation: no
+
 Package: jrProgramming
 Version: 0.1.2
 Depends: R (>= 3.1.0)
