@@ -25,6 +25,15 @@ License: GPL-2
 MD5sum: 4c1e04ad3764caad12959d6586573f66
 NeedsCompilation: no
 
+Package: jrGgplot2
+Version: 0.1.0
+Depends: R (>= 3.2)
+Imports: hexbin, ggplot2, ggplot2movies
+Suggests: knitr
+License: GPL-2 | GPL-3
+MD5sum: b12156f3f74916f1c6d76299de5994ea
+NeedsCompilation: no
+
 Package: jrIntroduction
 Version: 0.1.2
 Depends: R (>= 3.1.0),
