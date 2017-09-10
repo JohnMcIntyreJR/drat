@@ -31,7 +31,7 @@ Depends: R (>= 3.2)
 Imports: hexbin, ggplot2, ggplot2movies
 Suggests: knitr
 License: GPL-2 | GPL-3
-MD5sum: b12156f3f74916f1c6d76299de5994ea
+MD5sum: 3f5a3f5a10b956f5baf7ef9ac30b4313
 NeedsCompilation: no
 
 Package: jrIntroduction
