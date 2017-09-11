@@ -40,7 +40,7 @@ Depends: R (>= 3.3.0),
 Imports: ggplot2movies, dplyr (>= 0.7.0), readr, readxl
 Suggests: knitr, tufte, rmarkdown
 License: GPL-3
-MD5sum: 24dc4ad10b5dbc08c04375fd13c58907
+MD5sum: 00d7050ca8fddc2f2ea3be992f749ca9
 NeedsCompilation: no
 
 Package: jrModelling
