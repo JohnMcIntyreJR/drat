@@ -58,7 +58,7 @@ Depends: R (>= 3.3.0)
 Imports: ggplot2movies
 Suggests: knitr, tufte, rmarkdown, dplyr, formatR
 License: GPL-3
-MD5sum: 00e0f9c960b0abea2f190689db6f45a3
+MD5sum: 5c14ff576b42a30138f6568a4389a6f8
 NeedsCompilation: no
 
 Package: jrRstan
