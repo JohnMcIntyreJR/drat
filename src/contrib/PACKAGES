@@ -28,10 +28,10 @@ NeedsCompilation: no
 Package: jrGgplot2
 Version: 0.1.1
 Depends: R (>= 3.3.0)
-Imports: hexbin, ggplot2, ggplot2movies
+Imports: hexbin, ggplot2, ggplot2movies, quantreg
 Suggests: knitr
 License: GPL-2 | GPL-3
-MD5sum: 49a05443425604f0dd328764688b45a8
+MD5sum: 71fecadab88f63175ac3183b9f77361d
 NeedsCompilation: no
 
 Package: jrIntroduction
