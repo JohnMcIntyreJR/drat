@@ -49,7 +49,7 @@ Depends: R (>= 3.2.0)
 Imports: coin, shiny, ggplot2, titanic
 Suggests: survival, knitr
 License: GPL-3 | GPL-2
-MD5sum: 62dbe319e2f0d92d01681fc51dd79339
+MD5sum: 6b62f76ec0e3f950d8c1e6ea09753ab4
 NeedsCompilation: no
 
 Package: jrProgramming
