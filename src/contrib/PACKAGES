@@ -14,6 +14,18 @@ License: GPL-2
 MD5sum: 9760467bf70aabc0d9b1088ad19fc20b
 NeedsCompilation: no
 
+Package: jrAutomate
+Version: 0.1.0
+Depends: R (>= 3.3)
+Imports: utils, ggplot2movies, drat
+Suggests: knitr, shiny, formattable, edgebundleR,
+        DT,d3heatmap,networkD3, ggplot2, gridSVG, svgPanZoom,svglite,
+        MASS, htmlwidgets, ggiraph, sparkline, rmarkdown,
+        flexdashboard,plotly,dygraphs, rsconnect, revealjs
+License: CC0
+MD5sum: 2990bcec2a5d2b1dc076af817640f05a
+NeedsCompilation: no
+
 Package: jrBig
 Version: 0.1.2
 Depends: R (>= 3.3)
