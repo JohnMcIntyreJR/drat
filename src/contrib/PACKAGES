@@ -5,6 +5,27 @@ License: GPL (>= 2)
 MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
 
+Package: efficientTutorial
+Version: 0.1.1
+Depends: R (>= 3.3)
+Imports: Rcpp, profvis, microbenchmark
+Suggests: knitr, readr, rmarkdown
+License: GPL-2
+MD5sum: 9760467bf70aabc0d9b1088ad19fc20b
+NeedsCompilation: no
+
+Package: jrAutomate
+Version: 0.1.0
+Depends: R (>= 3.3)
+Imports: utils, ggplot2movies, drat
+Suggests: knitr, shiny, formattable, edgebundleR,
+        DT,d3heatmap,networkD3, ggplot2, gridSVG, svgPanZoom,svglite,
+        MASS, htmlwidgets, ggiraph, sparkline, rmarkdown,
+        flexdashboard,plotly,dygraphs, rsconnect, revealjs
+License: CC0
+MD5sum: 2990bcec2a5d2b1dc076af817640f05a
+NeedsCompilation: no
+
 Package: jrBig
 Version: 0.1.2
 Depends: R (>= 3.3)
@@ -16,22 +37,48 @@ License: GPL-2
 MD5sum: 4c1e04ad3764caad12959d6586573f66
 NeedsCompilation: no
 
+Package: jrGgplot2
+Version: 0.1.1
+Depends: R (>= 3.3.0)
+Imports: hexbin, ggplot2, ggplot2movies, quantreg
+Suggests: knitr
+License: GPL-2 | GPL-3
+MD5sum: 71fecadab88f63175ac3183b9f77361d
+NeedsCompilation: no
+
 Package: jrIntroduction
-Version: 0.1.2
-Depends: R (>= 3.1.0),
-Imports: ggplot2movies, tidyverse (>= 1.1.1), readr, readxl
+Version: 0.1.5
+Depends: R (>= 3.2.0),
+Imports: ggplot2movies, dplyr (>= 0.7.0), readr, readxl
 Suggests: knitr, tufte, rmarkdown
 License: GPL-3
-MD5sum: 436c7b6ee47a3d0c54acca8a3996ace6
+MD5sum: e95c6a3adb7aed01ec085e3c75f76ae4
+NeedsCompilation: no
+
+Package: jrModelling
+Version: 0.1.0
+Depends: R (>= 3.2.0)
+Imports: coin, shiny, ggplot2, titanic
+Suggests: survival, knitr
+License: GPL-3 | GPL-2
+MD5sum: 6b62f76ec0e3f950d8c1e6ea09753ab4
 NeedsCompilation: no
 
 Package: jrProgramming
-Version: 0.1.2
-Depends: R (>= 3.1.0)
-Imports: ggplot2movies
-Suggests: knitr, tufte, rmarkdown, tidyverse, dplyr
+Version: 0.1.3
+Depends: R (>= 3.2.0)
+Imports: ggplot2movies, dplyr
+Suggests: knitr, tufte, rmarkdown, formatR
 License: GPL-3
-MD5sum: f1008be96fb0431506df6f654f54067e
+MD5sum: 84a63a7cb5b2cc9873d41271f3ff1926
+NeedsCompilation: no
+
+Package: jrRstan
+Version: 0.1.0
+Depends: plyr, stats, grDevices, graphics
+Suggests: Rdpack, R.rsp
+License: GPL-3 | GPL-2
+MD5sum: 2e9c95c6a624136433e6e9d0168dac5a
 NeedsCompilation: no
 
 Package: jrShiny
@@ -45,4 +92,3 @@ Suggests: knitr, shiny, formattable, edgebundleR,
 License: CC0
 MD5sum: c771071dffe2c831d93db3ac61fe3c37
 NeedsCompilation: no
-
