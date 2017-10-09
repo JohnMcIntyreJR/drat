@@ -14,6 +14,14 @@ License: GPL-2
 MD5sum: 9760467bf70aabc0d9b1088ad19fc20b
 NeedsCompilation: no
 
+Package: jrAdvanced
+Version: 0.1.0
+Depends: R (>= 3.1), pryr
+Suggests: knitr, fortunes
+License: GPL-3 | GPL-2
+MD5sum: ffb902b95ff859a98d851b437b6a59a7
+NeedsCompilation: no
+
 Package: jrAutomate
 Version: 0.1.0
 Depends: R (>= 3.3)
@@ -79,16 +87,4 @@ Depends: plyr, stats, grDevices, graphics
 Suggests: Rdpack, R.rsp
 License: GPL-3 | GPL-2
 MD5sum: 2e9c95c6a624136433e6e9d0168dac5a
-NeedsCompilation: no
-
-Package: jrShiny
-Version: 0.1.1
-Depends: R (>= 3.3)
-Imports: utils, ggplot2movies, drat
-Suggests: knitr, shiny, formattable, edgebundleR,
-        DT,d3heatmap,networkD3, ggplot2, gridSVG, svgPanZoom,svglite,
-        MASS, htmlwidgets, ggiraph, sparkline, rmarkdown,
-        flexdashboard,plotly,dygraphs, rsconnect, revealjs
-License: CC0
-MD5sum: c771071dffe2c831d93db3ac61fe3c37
 NeedsCompilation: no
