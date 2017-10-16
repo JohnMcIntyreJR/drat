@@ -52,7 +52,7 @@ Depends: R (>= 3.3.0)
 Imports: hexbin, ggplot2, ggplot2movies, quantreg
 Suggests: knitr
 License: GPL-2 | GPL-3
-MD5sum: 71fecadab88f63175ac3183b9f77361d
+MD5sum: aec16ad7424b7e927c93179dc31cc3bf
 NeedsCompilation: no
 
 Package: jrIntroduction
