@@ -20,7 +20,7 @@ Depends: R (>= 3.1)
 Imports: pryr
 Suggests: knitr, fortunes
 License: GPL-3 | GPL-2
-MD5sum: 8dae8b568875ae2d10f83f301309f900
+MD5sum: 2c84c078f803a4ed3d7a5319e1102528
 NeedsCompilation: no
 
 Package: jrAutomate
