@@ -97,5 +97,5 @@ Depends: R (>= 3.2.0),
 Imports: dplyr (>= 0.7.0), RPostgreSQL
 Suggests: knitr, tufte, rmarkdown, formatR
 License: GPL-3
-MD5sum: 5cdf2b3e374f63007f8be8b99a413f83
+MD5sum: 7a370fe5593b9021266f33ac2cccc883
 NeedsCompilation: no
