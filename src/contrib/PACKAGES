@@ -27,9 +27,11 @@ Package: jrAutomate
 Version: 0.1.0
 Depends: R (>= 3.3)
 Imports: utils, ggplot2movies, drat
-Suggests: knitr, shiny, formattable, edgebundleR, DT,d3heatmap,networkD3, ggplot2, gridSVG,
-          svgPanZoom,svglite, MASS, htmlwidgets, ggiraph, sparkline, rmarkdown,
-          flexdashboard,plotly,dygraphs, rsconnect, revealjs
+Suggests: knitr, shiny, formattable, edgebundleR,
+      DT,d3heatmap,networkD3, ggplot2, gridSVG,
+      svgPanZoom,svglite, MASS, htmlwidgets, ggiraph,
+      sparkline, rmarkdown, flexdashboard,plotly,dygraphs,
+      rsconnect, revealjs
 License: CC0
 MD5sum: 2990bcec2a5d2b1dc076af817640f05a
 NeedsCompilation: no
@@ -37,9 +39,10 @@ NeedsCompilation: no
 Package: jrBig
 Version: 0.1.2
 Depends: R (>= 3.3)
-Imports: dplyr, ff, ffbase, readr, pryr, stats, microbenchmark, ggplot2, benchmarkme
-Suggests: Rcpp, knitr, rmarkdown, bigvis, tabplot, RSQLite, data.table, sparklyr, nycflights13,
-          DBI, ggplot2movies
+Imports: dplyr, ff, ffbase, readr, pryr, stats,
+      microbenchmark, ggplot2, benchmarkme
+Suggests: Rcpp, knitr, rmarkdown, bigvis, tabplot, RSQLite,
+      data.table, sparklyr, nycflights13, DBI, ggplot2movies
 License: GPL-2
 MD5sum: 4c1e04ad3764caad12959d6586573f66
 NeedsCompilation: no
@@ -94,5 +97,5 @@ Depends: R (>= 3.2.0),
 Imports: dplyr (>= 0.7.0), RPostgreSQL
 Suggests: knitr, tufte, rmarkdown, formatR
 License: GPL-3
-MD5sum: 667490e1ea9052b621130ac28c2c9258
+MD5sum: 5cdf2b3e374f63007f8be8b99a413f83
 NeedsCompilation: no
