@@ -46,6 +46,15 @@ License: GPL-2
 MD5sum: 4c1e04ad3764caad12959d6586573f66
 NeedsCompilation: no
 
+Package: jrEfficient
+Version: 0.1.0
+Depends: R (>= 3.2.0)
+Imports: rbenchmark
+Suggests: knitr, readr
+License: GPL-3
+MD5sum: 078bdfe4e413e9ad9ecec625af1e6af8
+NeedsCompilation: no
+
 Package: jrGgplot2
 Version: 0.1.1
 Depends: R (>= 3.3.0)
