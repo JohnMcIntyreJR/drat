@@ -65,12 +65,12 @@ MD5sum: aec16ad7424b7e927c93179dc31cc3bf
 NeedsCompilation: no
 
 Package: jrIntroduction
-Version: 0.1.6
+Version: 0.1.7
 Depends: R (>= 3.2.0),
 Imports: ggplot2movies, dplyr (>= 0.7.0), readr, readxl
 Suggests: knitr, tufte, rmarkdown, formatR
 License: GPL-3
-MD5sum: 0becd8cf77b291f809f7456877e025d7
+MD5sum: 71d1db456bee8734a9f9af941e62ad05
 NeedsCompilation: no
 
 Package: jrModelling
