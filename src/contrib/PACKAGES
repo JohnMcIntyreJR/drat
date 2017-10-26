@@ -124,5 +124,6 @@ Package: pieR
 Version: 0.1.0
 Depends: R (>= 3.2.0), htmlwidgets
 License: GPL-2
-MD5sum: b9f12bfd0ffb6e29512b41fc7b84d001
+MD5sum: baf753360f06db9b08d9de43c0821002
 NeedsCompilation: no
+
