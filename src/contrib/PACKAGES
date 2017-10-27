@@ -18,7 +18,7 @@ Package: gaugeR
 Version: 0.1.0
 Depends: R (>= 3.2.0), htmlwidgets
 License: GPL-2
-MD5sum: 8acf329bcc68a6d7cf8278eb1fbebfc1
+MD5sum: 74f0e55bd47305e64ff1f39ed615882d
 NeedsCompilation: no
 
 Package: jrAdvanced
@@ -142,4 +142,3 @@ Depends: R (>= 3.2.0), htmlwidgets
 License: GPL-2
 MD5sum: 4d26825b158de4cc40c3f8137d4b99fe
 NeedsCompilation: no
-
