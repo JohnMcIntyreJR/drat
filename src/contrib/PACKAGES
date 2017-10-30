@@ -35,9 +35,10 @@ Version: 0.1.0
 Depends: R (>= 3.3)
 Imports: utils, ggplot2movies, drat
 Suggests: knitr, shiny, formattable, edgebundleR,
-        DT,d3heatmap,networkD3, ggplot2, gridSVG, svgPanZoom,svglite,
-        MASS, htmlwidgets, ggiraph, sparkline, rmarkdown,
-        flexdashboard,plotly,dygraphs, rsconnect, revealjs
+       DT,d3heatmap,networkD3, ggplot2, gridSVG,
+       svgPanZoom,svglite, MASS, htmlwidgets, ggiraph,
+       sparkline, rmarkdown, flexdashboard,plotly,dygraphs,
+       rsconnect, revealjs
 License: CC0
 MD5sum: 2990bcec2a5d2b1dc076af817640f05a
 NeedsCompilation: no
@@ -46,9 +47,9 @@ Package: jrBig
 Version: 0.1.2
 Depends: R (>= 3.3)
 Imports: dplyr, ff, ffbase, readr, pryr, stats, microbenchmark,
-        ggplot2, benchmarkme
-Suggests: Rcpp, knitr, rmarkdown, bigvis, tabplot, RSQLite, data.table,
-        sparklyr, nycflights13, DBI, ggplot2movies
+       ggplot2, benchmarkme
+Suggests: Rcpp, knitr, rmarkdown, bigvis, tabplot, RSQLite,
+       data.table, sparklyr, nycflights13, DBI, ggplot2movies
 License: GPL-2
 MD5sum: 4c1e04ad3764caad12959d6586573f66
 NeedsCompilation: no
@@ -77,7 +78,7 @@ Depends: R (>= 3.2.0),
 Imports: ggplot2movies, dplyr (>= 0.7.0), readr, readxl
 Suggests: knitr, tufte, rmarkdown, formatR
 License: GPL-3
-MD5sum: 71d1db456bee8734a9f9af941e62ad05
+MD5sum: 991af2aa26f1c971fac75904c126867b
 NeedsCompilation: no
 
 Package: jrModelling
@@ -102,9 +103,9 @@ Package: jrPredictive
 Version: 1.1.0
 Depends: R (>= 3.1.0)
 Imports: caret, AppliedPredictiveModeling, ISLR, pROC, splines,
-        partykit, mlbench, gridExtra, elasticnet, pls, lars, gam,
-        ipred, randomForest, gbm, kernlab, e1071, ggplot2, threejs,
-        nlme
+       partykit, mlbench, gridExtra, elasticnet, pls, lars, gam,
+       ipred, randomForest, gbm, kernlab, e1071, ggplot2,
+       threejs, nlme
 Suggests: knitr, shiny, rmarkdown
 License: GPL-3 | GPL-2
 MD5sum: f36fb7235b27b5de02f918ccbc0c17aa
