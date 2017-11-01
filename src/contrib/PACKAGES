@@ -90,12 +90,12 @@ MD5sum: 4a104c8594047b380c10d0ef02270e32
 NeedsCompilation: no
 
 Package: jrNotes
-Version: 0.1.3
+Version: 0.1.4
 Depends: R (>= 3.2.0)
 Imports: knitr (>= 1.17), tufte (>= 0.2)
 Suggests: rmarkdown, formatR
 License: GPL-3
-MD5sum: 2a8773b2b4249eeb1919d82341332841
+MD5sum: d65f5bdd8b68b53dd588edcd8c0eecf6
 NeedsCompilation: no
 
 Package: jrPredictive
