@@ -43,14 +43,15 @@ MD5sum: 2990bcec2a5d2b1dc076af817640f05a
 NeedsCompilation: no
 
 Package: jrBig
-Version: 0.1.2
+Version: 0.1.3
 Depends: R (>= 3.3)
-Imports: dplyr, ff, ffbase, readr, pryr, stats, microbenchmark,
-        ggplot2, benchmarkme
+Imports: dplyr (>= 0.7), ff, ffbase, readr, pryr, stats,
+        microbenchmark, ggplot2, benchmarkme
 Suggests: Rcpp, knitr, rmarkdown, bigvis, tabplot, RSQLite, data.table,
-        sparklyr, nycflights13, DBI, ggplot2movies
+        sparklyr, nycflights13, DBI, ggplot2movies,RSQLite, dbplyr (>=
+        1.1.0)
 License: GPL-2
-MD5sum: 4c1e04ad3764caad12959d6586573f66
+MD5sum: a1bc216f959aacbd3d4269cececc5e95
 NeedsCompilation: no
 
 Package: jrEfficient
