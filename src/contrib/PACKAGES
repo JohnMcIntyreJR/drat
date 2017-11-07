@@ -96,7 +96,7 @@ Depends: R (>= 3.2.0)
 Imports: knitr (>= 1.17), tufte (>= 0.2)
 Suggests: rmarkdown, formatR
 License: GPL-3
-MD5sum: 63278bf1bbd7340b6eb06f7b0618b1a9
+MD5sum: ca9d81a68e24fab015797c1affbfe37c
 NeedsCompilation: no
 
 Package: jrPredictive
