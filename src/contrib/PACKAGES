@@ -31,7 +31,7 @@ MD5sum: 8438d5b278b74f403c5e6e6a171e73d0
 NeedsCompilation: no
 
 Package: jrAutomate
-Version: 0.1.0
+Version: 0.1.1
 Depends: R (>= 3.3)
 Imports: utils, ggplot2movies, drat
 Suggests: knitr, shiny, formattable, edgebundleR,
@@ -39,7 +39,7 @@ Suggests: knitr, shiny, formattable, edgebundleR,
         MASS, htmlwidgets, ggiraph, sparkline, rmarkdown,
         flexdashboard,plotly,dygraphs, rsconnect, revealjs
 License: CC0
-MD5sum: 91795fccdad6f4586f690080a03dd27f
+MD5sum: 00f57740fbeebfbfb8567042f327d747
 NeedsCompilation: no
 
 Package: jrBig
