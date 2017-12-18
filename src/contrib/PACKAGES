@@ -34,10 +34,9 @@ Package: jrAutomate
 Version: 0.1.1
 Depends: R (>= 3.3)
 Imports: utils, ggplot2movies, drat
-Suggests: knitr, shiny, formattable, edgebundleR,
-        DT,d3heatmap,networkD3, ggplot2, gridSVG, svgPanZoom,svglite,
-        MASS, htmlwidgets, ggiraph, sparkline, rmarkdown,
-        flexdashboard,plotly,dygraphs, rsconnect, revealjs
+Suggests: knitr, shiny, formattable, edgebundleR, DT,d3heatmap,networkD3, ggplot2,
+         gridSVG, svgPanZoom,svglite, MASS, htmlwidgets, ggiraph, sparkline, rmarkdown,
+         flexdashboard,plotly,dygraphs, rsconnect, revealjs
 License: CC0
 MD5sum: 00f57740fbeebfbfb8567042f327d747
 NeedsCompilation: no
@@ -45,11 +44,10 @@ NeedsCompilation: no
 Package: jrBig
 Version: 0.1.3
 Depends: R (>= 3.3)
-Imports: dplyr (>= 0.7), ff, ffbase, readr, pryr, stats,
-        microbenchmark, ggplot2, benchmarkme
-Suggests: Rcpp, knitr, rmarkdown, bigvis, tabplot, RSQLite, data.table,
-        sparklyr, nycflights13, DBI, ggplot2movies,RSQLite, dbplyr (>=
-        1.1.0)
+Imports: dplyr (>= 0.7), ff, ffbase, readr, pryr, stats, microbenchmark, ggplot2,
+         benchmarkme
+Suggests: Rcpp, knitr, rmarkdown, bigvis, tabplot, RSQLite, data.table, sparklyr,
+         nycflights13, DBI, ggplot2movies,RSQLite, dbplyr (>= 1.1.0)
 License: GPL-2
 MD5sum: a1bc216f959aacbd3d4269cececc5e95
 NeedsCompilation: no
@@ -99,13 +97,20 @@ License: GPL-3
 MD5sum: ca9d81a68e24fab015797c1affbfe37c
 NeedsCompilation: no
 
+Package: jrPackage
+Version: 0.1.0
+Depends: R (>= 3.0)
+Imports: devtools, knitr, roxygen2, drat, poweRlaw, testthat
+License: GPL-3 | GPL-2
+MD5sum: 49a6105e5f69943010f2fe3d7a295418
+NeedsCompilation: no
+
 Package: jrPredictive
 Version: 1.1.0
 Depends: R (>= 3.1.0)
-Imports: caret, AppliedPredictiveModeling, ISLR, pROC, splines,
-        partykit, mlbench, gridExtra, elasticnet, pls, lars, gam,
-        ipred, randomForest, gbm, kernlab, e1071, ggplot2, threejs,
-        nlme
+Imports: caret, AppliedPredictiveModeling, ISLR, pROC, splines, partykit, mlbench,
+         gridExtra, elasticnet, pls, lars, gam, ipred, randomForest, gbm, kernlab,
+         e1071, ggplot2, threejs, nlme
 Suggests: knitr, shiny, rmarkdown
 License: GPL-3 | GPL-2
 MD5sum: f36fb7235b27b5de02f918ccbc0c17aa
