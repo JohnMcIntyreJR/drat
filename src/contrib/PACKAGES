@@ -33,13 +33,13 @@ NeedsCompilation: no
 Package: jrAutomate
 Version: 0.1.1
 Depends: R (>= 3.3)
-Imports: utils, ggplot2movies, drat
+Imports: utils, ggplot2movies, drat, jrData
 Suggests: knitr, shiny, formattable, edgebundleR,
         DT,d3heatmap,networkD3, ggplot2, gridSVG, svgPanZoom,svglite,
         MASS, htmlwidgets, ggiraph, sparkline, rmarkdown,
         flexdashboard,plotly,dygraphs, rsconnect, revealjs
 License: CC0
-MD5sum: 00f57740fbeebfbfb8567042f327d747
+MD5sum: f1e3e7c74dbd98b50cf5b919c9f0f612
 NeedsCompilation: no
 
 Package: jrBig
