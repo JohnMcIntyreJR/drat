@@ -57,10 +57,10 @@ NeedsCompilation: no
 Package: jrEfficient
 Version: 0.1.0
 Depends: R (>= 3.2.0)
-Imports: rbenchmark
+Imports: rbenchmark, jrData
 Suggests: knitr, readr
 License: GPL-3
-MD5sum: 078bdfe4e413e9ad9ecec625af1e6af8
+MD5sum: 5c9f8642c2fdcc5024b712344437e955
 NeedsCompilation: no
 
 Package: jrGgplot2
