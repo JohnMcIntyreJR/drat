@@ -66,10 +66,10 @@ NeedsCompilation: no
 Package: jrGgplot2
 Version: 0.1.1
 Depends: R (>= 3.3.0)
-Imports: hexbin, ggplot2, ggplot2movies, quantreg
+Imports: hexbin, ggplot2, ggplot2movies, quantreg, jrData
 Suggests: knitr
 License: GPL-2 | GPL-3
-MD5sum: aec16ad7424b7e927c93179dc31cc3bf
+MD5sum: 68aed040c7fda4ff3e643ef563b05fb3
 NeedsCompilation: no
 
 Package: jrIntroduction
