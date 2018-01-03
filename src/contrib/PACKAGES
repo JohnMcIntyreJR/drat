@@ -75,10 +75,10 @@ NeedsCompilation: no
 Package: jrIntroduction
 Version: 0.1.7
 Depends: R (>= 3.2.0),
-Imports: ggplot2movies, dplyr (>= 0.7.0), readr, readxl
+Imports: ggplot2movies, dplyr (>= 0.7.0), readr, readxl, jrData
 Suggests: knitr, tufte, rmarkdown, formatR
 License: GPL-3
-MD5sum: 991af2aa26f1c971fac75904c126867b
+MD5sum: d0b3c2e9cd3fdaa226f03ba3ff7ddb79
 NeedsCompilation: no
 
 Package: jrModelling
