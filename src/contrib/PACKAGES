@@ -93,10 +93,10 @@ NeedsCompilation: no
 Package: jrNotes
 Version: 0.1.4
 Depends: R (>= 3.2.0)
-Imports: knitr (>= 1.17), tufte (>= 0.2)
+Imports: knitr (>= 1.17), tufte (>= 0.2), jrData
 Suggests: rmarkdown, formatR
 License: GPL-3
-MD5sum: ca9d81a68e24fab015797c1affbfe37c
+MD5sum: dba4425ee43615483d005c0a69952826
 NeedsCompilation: no
 
 Package: jrPackage
