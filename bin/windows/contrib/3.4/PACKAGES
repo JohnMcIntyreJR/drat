@@ -1,0 +1,20 @@
+Package: jrGgplot2
+Version: 0.1.2
+Depends: R (>= 3.3.0)
+Imports: hexbin, ggplot2, ggplot2movies, quantreg
+Suggests: knitr
+License: GPL-2 | GPL-3
+
+Package: jrModelling
+Version: 0.1.1
+Depends: R (>= 3.2.0)
+Imports: coin, shiny, ggplot2, titanic
+Suggests: survival, knitr
+License: GPL-3 | GPL-2
+
+Package: jrProgramming
+Version: 0.1.4
+Depends: R (>= 3.2.0)
+Imports: ggplot2movies, dplyr
+Suggests: knitr, tufte, rmarkdown, formatR
+License: GPL-3

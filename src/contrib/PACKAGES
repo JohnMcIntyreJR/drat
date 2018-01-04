@@ -5,3 +5,149 @@ License: GPL (>= 2)
 MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
 
+Package: efficientTutorial
+Version: 0.1.1
+Depends: R (>= 3.3)
+Imports: Rcpp, profvis, microbenchmark
+Suggests: knitr, readr, rmarkdown
+License: GPL-2
+MD5sum: 9760467bf70aabc0d9b1088ad19fc20b
+NeedsCompilation: no
+
+Package: gaugeR
+Version: 0.1.0
+Depends: R (>= 3.2.0), htmlwidgets
+License: GPL-2
+MD5sum: 74f0e55bd47305e64ff1f39ed615882d
+NeedsCompilation: no
+
+Package: jrAdvanced
+Version: 0.1.0
+Depends: R (>= 3.1)
+Imports: pryr, jrData
+Suggests: knitr, fortunes
+License: GPL-3 | GPL-2
+MD5sum: e3b83bbe473d86d26ab6522f07400410
+NeedsCompilation: no
+
+Package: jrAutomate
+Version: 0.1.1
+Depends: R (>= 3.3)
+Imports: utils, ggplot2movies, drat, jrData
+Suggests: knitr, shiny, formattable, edgebundleR,
+        DT,d3heatmap,networkD3, ggplot2, gridSVG, svgPanZoom,svglite,
+        MASS, htmlwidgets, ggiraph, sparkline, rmarkdown,
+        flexdashboard,plotly,dygraphs, rsconnect, revealjs
+License: CC0
+MD5sum: f1e3e7c74dbd98b50cf5b919c9f0f612
+NeedsCompilation: no
+
+Package: jrBig
+Version: 0.1.3
+Depends: R (>= 3.3)
+Imports: dplyr (>= 0.7), ff, ffbase, readr, pryr, stats,
+        microbenchmark, ggplot2, benchmarkme, jrData
+Suggests: Rcpp, knitr, rmarkdown, bigvis, tabplot, RSQLite, data.table,
+        sparklyr, nycflights13, DBI, ggplot2movies,RSQLite, dbplyr (>=
+        1.1.0)
+License: GPL-2
+MD5sum: 7cda198d8c82a9688d9f451d884d2328
+NeedsCompilation: no
+
+Package: jrEfficient
+Version: 0.1.0
+Depends: R (>= 3.2.0)
+Imports: rbenchmark, jrData
+Suggests: knitr, readr
+License: GPL-3
+MD5sum: 5c9f8642c2fdcc5024b712344437e955
+NeedsCompilation: no
+
+Package: jrGgplot2
+Version: 0.1.1
+Depends: R (>= 3.3.0)
+Imports: hexbin, ggplot2, ggplot2movies, quantreg, jrData
+Suggests: knitr
+License: GPL-2 | GPL-3
+MD5sum: 68aed040c7fda4ff3e643ef563b05fb3
+NeedsCompilation: no
+
+Package: jrIntroduction
+Version: 0.1.7
+Depends: R (>= 3.2.0),
+Imports: ggplot2movies, dplyr (>= 0.7.0), readr, readxl, jrData
+Suggests: knitr, tufte, rmarkdown, formatR
+License: GPL-3
+MD5sum: d0b3c2e9cd3fdaa226f03ba3ff7ddb79
+NeedsCompilation: no
+
+Package: jrModelling
+Version: 0.1.0
+Depends: R (>= 3.2.0)
+Imports: coin, shiny, ggplot2, titanic, jrData
+Suggests: survival, knitr
+License: GPL-3 | GPL-2
+MD5sum: bc6e93a2d3aceda55b4a031d46a5b4ef
+NeedsCompilation: no
+
+Package: jrNotes
+Version: 0.1.4
+Depends: R (>= 3.2.0)
+Imports: knitr (>= 1.17), tufte (>= 0.2), jrData
+Suggests: rmarkdown, formatR
+License: GPL-3
+MD5sum: dba4425ee43615483d005c0a69952826
+NeedsCompilation: no
+
+Package: jrPackage
+Version: 0.1.0
+Depends: R (>= 3.0)
+Imports: devtools, knitr, roxygen2, drat, poweRlaw, testthat
+License: GPL-3 | GPL-2
+MD5sum: 49a6105e5f69943010f2fe3d7a295418
+NeedsCompilation: no
+
+Package: jrPredictive
+Version: 1.1.0
+Depends: R (>= 3.1.0)
+Imports: caret, AppliedPredictiveModeling, ISLR, pROC, splines,
+        partykit, mlbench, gridExtra, elasticnet, pls, lars, gam,
+        ipred, randomForest, gbm, kernlab, e1071, ggplot2, threejs,
+        nlme
+Suggests: knitr, shiny, rmarkdown
+License: GPL-3 | GPL-2
+MD5sum: f36fb7235b27b5de02f918ccbc0c17aa
+NeedsCompilation: no
+
+Package: jrProgramming
+Version: 0.1.3
+Depends: R (>= 3.2.0)
+Imports: ggplot2movies, dplyr
+Suggests: knitr, tufte, rmarkdown, formatR
+License: GPL-3
+MD5sum: 84a63a7cb5b2cc9873d41271f3ff1926
+NeedsCompilation: no
+
+Package: jrRstan
+Version: 0.1.0
+Depends: plyr, stats, grDevices, graphics
+Suggests: Rdpack, R.rsp
+License: GPL-3 | GPL-2
+MD5sum: 2db3018791ed419a16c456464f15402a
+NeedsCompilation: no
+
+Package: jRsql
+Version: 0.1.0
+Depends: R (>= 3.2.0),
+Imports: dplyr (>= 0.7.0), RPostgreSQL
+Suggests: knitr, tufte, rmarkdown, formatR
+License: GPL-3
+MD5sum: 7a370fe5593b9021266f33ac2cccc883
+NeedsCompilation: no
+
+Package: pieR
+Version: 0.1.0
+Depends: R (>= 3.2.0), htmlwidgets
+License: GPL-2
+MD5sum: 4d26825b158de4cc40c3f8137d4b99fe
+NeedsCompilation: no
