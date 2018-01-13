@@ -120,10 +120,10 @@ Depends: R (>= 3.1.0)
 Imports: caret, AppliedPredictiveModeling, ISLR, pROC, splines,
         partykit, mlbench, gridExtra, elasticnet, pls, lars, gam,
         ipred, randomForest, gbm, kernlab, e1071, ggplot2, threejs,
-        nlme
+        nlme, jrData
 Suggests: knitr, shiny, rmarkdown
 License: GPL-3 | GPL-2
-MD5sum: f36fb7235b27b5de02f918ccbc0c17aa
+MD5sum: 0cbddcc4ca78b9d2dc232aa8fece6a34
 NeedsCompilation: no
 
 Package: jrProgramming
