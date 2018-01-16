@@ -67,7 +67,7 @@ Depends: R (>= 3.2.0)
 Imports: rbenchmark, jrData
 Suggests: knitr, readr
 License: GPL-3
-MD5sum: 5c9f8642c2fdcc5024b712344437e955
+MD5sum: 1e72a8e6c3c2f12e8f94fd3a62e878cc
 NeedsCompilation: no
 
 Package: jrGgplot2
