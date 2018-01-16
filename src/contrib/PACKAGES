@@ -123,7 +123,7 @@ Imports: caret, AppliedPredictiveModeling, ISLR, pROC, splines,
         nlme, jrData
 Suggests: knitr, shiny, rmarkdown
 License: GPL-3 | GPL-2
-MD5sum: 0cbddcc4ca78b9d2dc232aa8fece6a34
+MD5sum: 663522583893ed99aecb7c4158b9f025
 NeedsCompilation: no
 
 Package: jrProgramming
