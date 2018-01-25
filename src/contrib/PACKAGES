@@ -98,12 +98,12 @@ MD5sum: 5b6e9130835b16fda6cafff189fbf2f8
 NeedsCompilation: no
 
 Package: jrNotes
-Version: 0.1.4
+Version: 0.1.5
 Depends: R (>= 3.2.0)
 Imports: knitr (>= 1.17), tufte (>= 0.2), jrData
 Suggests: rmarkdown, formatR
 License: GPL-3
-MD5sum: dba4425ee43615483d005c0a69952826
+MD5sum: 8d47f7f9dd5d1fe0526e8302afd2625d
 NeedsCompilation: no
 
 Package: jrPackage
