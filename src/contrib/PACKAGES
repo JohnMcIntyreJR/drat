@@ -152,6 +152,12 @@ License: GPL-3
 MD5sum: 7a370fe5593b9021266f33ac2cccc883
 NeedsCompilation: no
 
+Package: jrTidyverse
+Version: 0.1.0
+License: GPL-2
+MD5sum: 9c58b2330ad755afde50bd59991bc288
+NeedsCompilation: no
+
 Package: pieR
 Version: 0.1.0
 Depends: R (>= 3.2.0), htmlwidgets
