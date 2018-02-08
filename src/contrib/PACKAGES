@@ -155,7 +155,7 @@ NeedsCompilation: no
 Package: jrTidyverse
 Version: 0.1.0
 License: GPL-2
-MD5sum: 9c58b2330ad755afde50bd59991bc288
+MD5sum: c2c1162657affb4a8e2109a01f17ceaa
 NeedsCompilation: no
 
 Package: pieR
