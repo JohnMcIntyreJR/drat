@@ -147,7 +147,7 @@ Version: 0.1.0
 Depends: plyr, stats, grDevices, graphics
 Suggests: Rdpack, R.rsp
 License: GPL-3 | GPL-2
-MD5sum: 2db3018791ed419a16c456464f15402a
+MD5sum: 658ee2b2bcd4203c5e7d0704c5823707
 NeedsCompilation: no
 
 Package: jRsql
