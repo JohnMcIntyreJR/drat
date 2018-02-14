@@ -161,8 +161,9 @@ NeedsCompilation: no
 
 Package: jrTidyverse
 Version: 0.1.0
+Imports: tidyverse
 License: GPL-2
-MD5sum: babc89248dd8ae3948dd460a0bb1efb2
+MD5sum: 11a1398f551f8d5a741fb69d875c26fc
 NeedsCompilation: no
 
 Package: pieR
