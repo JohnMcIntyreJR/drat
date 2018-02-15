@@ -161,9 +161,10 @@ NeedsCompilation: no
 
 Package: jrTidyverse
 Version: 0.1.0
-Imports: tidyverse
+Imports: tidyverse, jrData, ggplot2movies
+Suggests: knitr
 License: GPL-2
-MD5sum: bd89d01941e5ef80e48d82ed73c58bcb
+MD5sum: 8f6234a2aeeb66f7b90bea67a4abc1ce
 NeedsCompilation: no
 
 Package: pieR
