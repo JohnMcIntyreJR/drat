@@ -163,7 +163,7 @@ Package: jrTidyverse
 Version: 0.1.0
 Imports: tidyverse
 License: GPL-2
-MD5sum: 11a1398f551f8d5a741fb69d875c26fc
+MD5sum: bd89d01941e5ef80e48d82ed73c58bcb
 NeedsCompilation: no
 
 Package: pieR
