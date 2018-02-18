@@ -160,11 +160,11 @@ MD5sum: 7a370fe5593b9021266f33ac2cccc883
 NeedsCompilation: no
 
 Package: jrTidyverse
-Version: 0.1.0
-Imports: tidyverse, jrData, ggplot2movies
+Version: 0.1.1
+Imports: tidyverse, dplyr (>= 0.7.4), jrData, ggplot2movies, readr
 Suggests: knitr
 License: GPL-2
-MD5sum: 8f6234a2aeeb66f7b90bea67a4abc1ce
+MD5sum: 646db58071764690b79dad5c2b92b688
 NeedsCompilation: no
 
 Package: pieR
