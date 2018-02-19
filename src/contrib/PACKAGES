@@ -161,10 +161,11 @@ NeedsCompilation: no
 
 Package: jrTidyverse
 Version: 0.1.1
-Imports: tidyverse, dplyr (>= 0.7.4), jrData, ggplot2movies, readr
+Imports: tidyverse, dplyr (>= 0.7.4), jrData, ggplot2movies, readr,
+        tibble (>= 1.4.2), lubridate (>= 1.7.2)
 Suggests: knitr
 License: GPL-2
-MD5sum: 646db58071764690b79dad5c2b92b688
+MD5sum: 0c96555e08a632f50e0c84143a59547d
 NeedsCompilation: no
 
 Package: pieR
