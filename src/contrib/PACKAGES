@@ -30,6 +30,15 @@ License: GPL-3 | GPL-2
 MD5sum: e3b83bbe473d86d26ab6522f07400410
 NeedsCompilation: no
 
+Package: jrAnalytics
+Version: 0.1.0
+Depends: R (>= 3.2.0)
+Suggests: knitr, tufte, caret, dplyr, elasticnet, lars, jrNotes,
+        AppliedPredictiveModeling, formatR
+License: GPL-3
+MD5sum: b78bb39f18cf324a43eb88f5e220563b
+NeedsCompilation: no
+
 Package: jrAutomate
 Version: 0.1.1
 Depends: R (>= 3.3)
