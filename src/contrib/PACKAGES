@@ -172,11 +172,10 @@ Package: jrTidyverse
 Version: 0.1.1
 Depends: R (>= 3.4.0)
 Imports: tidyverse, dplyr (>= 0.7.4), readr, tibble (>= 1.4.2),
-        lubridate (>= 1.7.2),
-Suggests: knitr, okcupiddata, rmarkdown, ggplot2, ggplot2movies,
-        jrData, tidyr
+        lubridate (>= 1.7.2), ggplot2movies, hrbrthemes
+Suggests: knitr, okcupiddata, rmarkdown, ggplot2, jrData, tidyr
 License: GPL-2
-MD5sum: 205809df110a7cc7c1365f71b05b5dae
+MD5sum: 3c52b25d84c32dee3422d886517b8927
 NeedsCompilation: no
 
 Package: pieR
