@@ -175,7 +175,7 @@ Imports: tidyverse, dplyr (>= 0.7.4), readr, tibble (>= 1.4.2),
         lubridate (>= 1.7.2), ggplot2movies, hrbrthemes
 Suggests: knitr, okcupiddata, rmarkdown, ggplot2, jrData, tidyr
 License: GPL-2
-MD5sum: f633645275d8a6ac90c1ddac34b4642a
+MD5sum: eb71285cca803490de53308b30542e26
 NeedsCompilation: no
 
 Package: pieR
