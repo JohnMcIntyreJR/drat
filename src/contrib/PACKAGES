@@ -184,7 +184,7 @@ Depends: R (>= 3.3.0),
 Imports: tibble, lubridate
 Suggests: knitr
 License: GPL-3
-MD5sum: 942c6f5dde9556c34ba2602be61559e5
+MD5sum: 55314a50350faeb9909b79f4b4f1e62c
 NeedsCompilation: no
 
 Package: pieR
