@@ -178,6 +178,15 @@ License: GPL-2
 MD5sum: eb71285cca803490de53308b30542e26
 NeedsCompilation: no
 
+Package: jrWhyR
+Version: 0.1.0
+Depends: R (>= 3.3.0),
+Imports: tibble, lubridate
+Suggests: knitr
+License: GPL-3
+MD5sum: 942c6f5dde9556c34ba2602be61559e5
+NeedsCompilation: no
+
 Package: pieR
 Version: 0.1.0
 Depends: R (>= 3.2.0), htmlwidgets
