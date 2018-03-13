@@ -179,12 +179,12 @@ MD5sum: eb71285cca803490de53308b30542e26
 NeedsCompilation: no
 
 Package: jrWhyR
-Version: 0.1.0
+Version: 0.1.1
 Depends: R (>= 3.3.0),
 Imports: tibble, lubridate
-Suggests: knitr
+Suggests: knitr, tidyverse, kableExtra
 License: GPL-3
-MD5sum: 55314a50350faeb9909b79f4b4f1e62c
+MD5sum: f9565705ee8805e5a30c469879f9c667
 NeedsCompilation: no
 
 Package: pieR
