@@ -180,11 +180,12 @@ NeedsCompilation: no
 
 Package: jrWhyR
 Version: 0.1.1
-Depends: R (>= 3.3.0),
+Depends: R (>= 3.3.0)
 Imports: tibble, lubridate
-Suggests: knitr, tidyverse, kableExtra
+Suggests: knitr, kableExtra, tidyverse, plotly, DT, heatmaply,
+        ggplot2movies, shiny
 License: GPL-3
-MD5sum: 8ad7cf6378edf7425ad9f5e05015f0a2
+MD5sum: 9f84eaf1677a38d31a4d1ac1f7dd5e58
 NeedsCompilation: no
 
 Package: pieR
