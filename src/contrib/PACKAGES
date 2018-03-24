@@ -60,7 +60,7 @@ Suggests: Rcpp, knitr, rmarkdown, bigvis, tabplot, RSQLite, data.table,
         sparklyr, nycflights13, DBI, ggplot2movies,RSQLite, dbplyr (>=
         1.1.0)
 License: GPL-2
-MD5sum: 7cda198d8c82a9688d9f451d884d2328
+MD5sum: 442767765120e27ded71c88a2ec03abd
 NeedsCompilation: no
 
 Package: jrData
