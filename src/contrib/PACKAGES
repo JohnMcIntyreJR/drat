@@ -139,7 +139,7 @@ Package: jrPresentation
 Version: 0.1.6
 Suggests: knitr, xaringan
 License: GPL-2 | GPL-3
-MD5sum: 38f493fa77ae5f8e19d3a14d25c43c0e
+MD5sum: f1fa586be85271346ac4885a386632f9
 NeedsCompilation: no
 
 Package: jrProgramming
