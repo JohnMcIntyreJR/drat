@@ -169,13 +169,13 @@ MD5sum: 7a370fe5593b9021266f33ac2cccc883
 NeedsCompilation: no
 
 Package: jrTidyverse
-Version: 0.1.1
-Depends: R (>= 3.4.0)
+Version: 0.1.3
+Depends: R (>= 3.3.0)
 Imports: tidyverse, dplyr (>= 0.7.4), readr, tibble (>= 1.4.2),
         lubridate (>= 1.7.2), ggplot2movies, hrbrthemes
 Suggests: knitr, okcupiddata, rmarkdown, ggplot2, jrData, tidyr
 License: GPL-2
-MD5sum: eb71285cca803490de53308b30542e26
+MD5sum: 3cd4eec471a023780b0c8373fb6827e9
 NeedsCompilation: no
 
 Package: jrWhyR
