@@ -183,9 +183,9 @@ Version: 0.1.0
 Depends: R (>= 3.4.0)
 Imports: tidyverse, tidytext, broom, magrittr, GGally, repurrrsive,
         wordcloud, gutenbergr, ggplot2movies, hrbrthemes
-Suggests: knitr, rmarkdown, jrData
+Suggests: knitr, rmarkdown, jrData, jrTidyverse
 License: GPL-2
-MD5sum: 9756f56891aa75f5012db1b54c5ab840
+MD5sum: f424c91b6c5723df65c6efa751822445
 NeedsCompilation: no
 
 Package: jrWhyR
