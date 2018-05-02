@@ -1,5 +1,5 @@
 Package: jrIntroduction
-Version: 0.1.10
+Version: 0.1.11
 Depends: R (>= 3.2.0),
 Imports: ggplot2movies, dplyr (>= 0.7.0), readr, readxl, jrData
 Suggests: knitr, tufte, rmarkdown, formatR
