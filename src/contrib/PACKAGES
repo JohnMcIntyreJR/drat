@@ -94,7 +94,7 @@ Depends: R (>= 3.2.0),
 Imports: ggplot2movies, dplyr (>= 0.7.0), readr, readxl, jrData
 Suggests: knitr, tufte, rmarkdown, formatR
 License: GPL-3
-MD5sum: e1a57b3cd24de51b6bfab9c1a823e8ef
+MD5sum: 729fe6b7e6152f60aae6cfe26b7764aa
 NeedsCompilation: no
 
 Package: jrModelling
