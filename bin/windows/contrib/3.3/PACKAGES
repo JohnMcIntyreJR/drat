@@ -1,6 +1,7 @@
 Package: jrIntroduction
-Version: 0.1.2
-Depends: R (>= 3.1.0),
-Imports: ggplot2movies, tidyverse (>= 1.1.1), readr, readxl
-Suggests: knitr, tufte, rmarkdown
+Version: 0.1.10
+Depends: R (>= 3.2.0),
+Imports: ggplot2movies, dplyr (>= 0.7.0), readr, readxl, jrData
+Suggests: knitr, tufte, rmarkdown, formatR
 License: GPL-3
+
