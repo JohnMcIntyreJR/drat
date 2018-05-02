@@ -6,9 +6,9 @@ Suggests: knitr
 License: GPL-2 | GPL-3
 
 Package: jrIntroduction
-Version: 0.1.9
+Version: 0.1.10
 Depends: R (>= 3.2.0),
-Imports: ggplot2movies, dplyr (>= 0.7.0), readr, readxl
+Imports: ggplot2movies, dplyr (>= 0.7.0), readr, readxl, jrData
 Suggests: knitr, tufte, rmarkdown, formatR
 License: GPL-3
 
