@@ -136,10 +136,10 @@ MD5sum: 663522583893ed99aecb7c4158b9f025
 NeedsCompilation: no
 
 Package: jrPresentation
-Version: 0.1.6
-Suggests: knitr, xaringan
+Version: 0.1.7
+Imports: knitr (>= 1.20), xaringan (>= 0.6)
 License: GPL-2 | GPL-3
-MD5sum: f1fa586be85271346ac4885a386632f9
+MD5sum: 7b4e328074745cc8003f74ee44728243
 NeedsCompilation: no
 
 Package: jrProgramming
