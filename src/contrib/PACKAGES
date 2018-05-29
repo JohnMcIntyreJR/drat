@@ -95,7 +95,7 @@ Imports: jrIntroduction, ggplot2movies, dplyr (>= 0.7.0), readr,
         readxl, jrData
 Suggests: knitr, tufte, rmarkdown, formatR
 License: GPL-3
-MD5sum: 3395e44e0b993d4b8f2d9541cc5b004a
+MD5sum: c45686d5baec4de692bd24d147f381ab
 NeedsCompilation: no
 
 Package: jrIntroduction
