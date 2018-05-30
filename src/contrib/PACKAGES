@@ -186,6 +186,12 @@ License: GPL-3
 MD5sum: 7a370fe5593b9021266f33ac2cccc883
 NeedsCompilation: no
 
+Package: jrTesting
+Version: 0.1.0
+License: GPL-3
+MD5sum: 25ea9d91822c8aefd1a83773ce57f295
+NeedsCompilation: no
+
 Package: jrTidyverse
 Version: 0.1.3
 Depends: R (>= 3.3.0)
