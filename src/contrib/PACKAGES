@@ -157,7 +157,7 @@ Depends: R (>= 3.2.0)
 Imports: ggplot2movies, dplyr
 Suggests: knitr, tufte, rmarkdown, formatR
 License: GPL-3
-MD5sum: 0170d6d5a1c6eed21e617c8b90f6cb33
+MD5sum: f8cfcf996a5c866684b6a5a39e6a677f
 NeedsCompilation: no
 
 Package: jrProgramming
