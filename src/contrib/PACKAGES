@@ -70,6 +70,12 @@ License: GPL-2
 MD5sum: a583837da48abf4f197791e30ee7363e
 NeedsCompilation: no
 
+Package: jrDocker
+Version: 0.1.0
+License: GPL-3
+MD5sum: 96de17a8bec025d45bb1c5e4c0a74447
+NeedsCompilation: no
+
 Package: jrEfficient
 Version: 0.1.0
 Depends: R (>= 3.2.0)
