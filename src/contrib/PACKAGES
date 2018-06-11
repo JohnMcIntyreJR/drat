@@ -215,7 +215,7 @@ Imports: tidyverse, tidytext, broom, magrittr, GGally, repurrrsive,
         wordcloud, gutenbergr, ggplot2movies, hrbrthemes, ggthemes
 Suggests: knitr, rmarkdown, jrData, jrTidyverse
 License: GPL-2
-MD5sum: 780f4cf34cad81d74d588a92c5e78279
+MD5sum: 839c365e6a5652e78e253f1eb27e614f
 NeedsCompilation: no
 
 Package: jrWhyR
