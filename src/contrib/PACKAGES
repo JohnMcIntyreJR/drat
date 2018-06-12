@@ -212,10 +212,11 @@ Package: jrTidyverse2
 Version: 0.1.0
 Depends: R (>= 3.4.0)
 Imports: tidyverse, tidytext, broom, magrittr, GGally, repurrrsive,
-        wordcloud, gutenbergr, ggplot2movies, hrbrthemes, ggthemes
+        wordcloud, gutenbergr, ggplot2movies, hrbrthemes, ggthemes,
+        igraph
 Suggests: knitr, rmarkdown, jrData, jrTidyverse
 License: GPL-2
-MD5sum: 839c365e6a5652e78e253f1eb27e614f
+MD5sum: 11da40483be62e0ba6c5728e5b8de601
 NeedsCompilation: no
 
 Package: jrWhyR
