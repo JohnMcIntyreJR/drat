@@ -213,10 +213,10 @@ Version: 0.1.0
 Depends: R (>= 3.4.0)
 Imports: tidyverse, tidytext, broom, magrittr, GGally, repurrrsive,
         wordcloud, gutenbergr, ggplot2movies, hrbrthemes, ggthemes,
-        igraph
+        igraph, ggraph
 Suggests: knitr, rmarkdown, jrData, jrTidyverse
 License: GPL-2
-MD5sum: 11da40483be62e0ba6c5728e5b8de601
+MD5sum: f454813ed4849ff5f01cbf0ab6de481b
 NeedsCompilation: no
 
 Package: jrWhyR
