@@ -183,6 +183,18 @@ License: GPL-3 | GPL-2
 MD5sum: 658ee2b2bcd4203c5e7d0704c5823707
 NeedsCompilation: no
 
+Package: jrShiny
+Version: 0.1
+Depends: R (>= 3.2)
+Imports: utils, ggplot2movies, drat
+Suggests: knitr, shiny, formattable, edgebundleR,
+        DT,d3heatmap,networkD3, ggplot2, gridSVG, svgPanZoom,svglite,
+        MASS, htmlwidgets, ggiraph, sparkline, rmarkdown,
+        flexdashboard,plotly,dygraphs, rsconnect, revealjs
+License: CC0
+MD5sum: be00cb78dfc01201af0f728842bd51fa
+NeedsCompilation: no
+
 Package: jRsql
 Version: 0.1.0
 Depends: R (>= 3.2.0),
