@@ -192,7 +192,7 @@ Suggests: knitr, shiny, formattable, edgebundleR,
         MASS, htmlwidgets, ggiraph, sparkline, rmarkdown,
         flexdashboard,plotly,dygraphs, rsconnect, revealjs
 License: CC0
-MD5sum: a495d213bbc9940f04ea26d7756c503b
+MD5sum: 3036a61245693abf82b405cf2902c082
 NeedsCompilation: no
 
 Package: jRsql
