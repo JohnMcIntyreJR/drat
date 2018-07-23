@@ -195,6 +195,16 @@ License: CC0
 MD5sum: 3036a61245693abf82b405cf2902c082
 NeedsCompilation: no
 
+Package: jrSouth
+Version: 0.1.1
+Depends: R (>= 3.3.0)
+Imports: hexbin, ggplot2, ggplot2movies, quantreg, ggthemes,
+        hrbrthemes, jrData, jrIntroduction, jrProgramming
+Suggests: knitr
+License: GPL-2 | GPL-3
+MD5sum: 704333909583ab437fbdc72c48dc01cf
+NeedsCompilation: no
+
 Package: jRsql
 Version: 0.1.0
 Depends: R (>= 3.2.0),
