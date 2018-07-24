@@ -202,7 +202,7 @@ Imports: hexbin, ggplot2, ggplot2movies, quantreg, ggthemes,
         hrbrthemes, jrData, jrIntroduction, jrProgramming
 Suggests: knitr
 License: GPL-2 | GPL-3
-MD5sum: 704333909583ab437fbdc72c48dc01cf
+MD5sum: 57f7cfb0212649d9afd0bd1e25807656
 NeedsCompilation: no
 
 Package: jRsql
