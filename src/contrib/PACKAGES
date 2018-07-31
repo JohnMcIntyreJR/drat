@@ -127,7 +127,7 @@ Depends: R (>= 3.4.0)
 Imports: knitr (>= 1.20), tufte (>= 0.3), jrData
 Suggests: rmarkdown (>= 1.8), formatR
 License: GPL-3
-MD5sum: aea0cb90628acd4b8abc03abf91bbaa3
+MD5sum: 483817c17aef71a5b37ef20442757b7d
 NeedsCompilation: no
 
 Package: jrPackage
