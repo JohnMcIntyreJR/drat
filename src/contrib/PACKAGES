@@ -130,6 +130,14 @@ License: GPL-3
 MD5sum: 483817c17aef71a5b37ef20442757b7d
 NeedsCompilation: no
 
+Package: jroreillyregression
+Version: 0.1.0
+Depends: R(>= 3.0)
+Suggests: knitr, caret, glmnet
+License: GPL-3
+MD5sum: 2d870dde518cc6b1e1e7fd2bd9e0834d
+NeedsCompilation: no
+
 Package: jrPackage
 Version: 0.1.0
 Depends: R (>= 3.0)
