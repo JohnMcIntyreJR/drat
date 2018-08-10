@@ -86,12 +86,12 @@ MD5sum: 1e72a8e6c3c2f12e8f94fd3a62e878cc
 NeedsCompilation: no
 
 Package: jrGgplot2
-Version: 0.1.1
+Version: 0.1.2
 Depends: R (>= 3.3.0)
 Imports: hexbin, ggplot2, ggplot2movies, quantreg, jrData
 Suggests: knitr
 License: GPL-2 | GPL-3
-MD5sum: a6e77f71663b37586871b9b60657ab9e
+MD5sum: 51963f7176b68d2c656ab8824cb13843
 NeedsCompilation: no
 
 Package: jrIntroBio
