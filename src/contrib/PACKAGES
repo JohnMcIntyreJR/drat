@@ -127,7 +127,7 @@ Depends: R (>= 3.4.0)
 Imports: knitr (>= 1.20), tufte (>= 0.3), jrData
 Suggests: rmarkdown (>= 1.8), formatR
 License: GPL-3
-MD5sum: edcc005c5e9a750f660ae3c94d3135fd
+MD5sum: 4aac32faa4e8b36976f5df9c7a548bdf
 NeedsCompilation: no
 
 Package: jroreillyregression
