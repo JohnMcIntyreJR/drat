@@ -125,9 +125,9 @@ Package: jrNotes
 Version: 0.2.0
 Depends: R (>= 3.4.0)
 Imports: knitr (>= 1.20), tufte (>= 0.3), jrData
-Suggests: rmarkdown (>= 1.8), formatR
+Suggests: rmarkdown (>= 1.9.17), formatR
 License: GPL-3
-MD5sum: a42cdf97a9cbf23ba91152654b18ffad
+MD5sum: 2ce0155ea7c53f3b662e0d78d8b2ca97
 NeedsCompilation: no
 
 Package: jroreillyregression
