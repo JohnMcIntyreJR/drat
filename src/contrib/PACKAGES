@@ -218,7 +218,7 @@ Version: 0.1.0
 Depends: R (>= 2.10)
 Imports: tidyverse, sf, tmaptools, tmap, spData, raster
 License: GPL-2
-MD5sum: 0e06d3bb348f1293be914c64d69e5640
+MD5sum: e28b1cce2b495f95aa88ff47be2263ce
 NeedsCompilation: no
 
 Package: jRsql
