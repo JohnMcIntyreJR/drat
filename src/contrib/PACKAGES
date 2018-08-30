@@ -213,6 +213,14 @@ License: GPL-2 | GPL-3
 MD5sum: 57f7cfb0212649d9afd0bd1e25807656
 NeedsCompilation: no
 
+Package: jrSpatial
+Version: 0.1.0
+Depends: R (>= 2.10)
+Imports: tidyverse, sf, tmaptools, tmap, spData, raster
+License: GPL-2
+MD5sum: 0e06d3bb348f1293be914c64d69e5640
+NeedsCompilation: no
+
 Package: jRsql
 Version: 0.1.0
 Depends: R (>= 3.2.0),
