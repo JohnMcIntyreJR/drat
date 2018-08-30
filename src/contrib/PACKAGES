@@ -122,12 +122,12 @@ MD5sum: 5b6e9130835b16fda6cafff189fbf2f8
 NeedsCompilation: no
 
 Package: jrNotes
-Version: 0.3.1
+Version: 0.3.2
 Depends: R (>= 3.4.0)
-Imports: knitr (>= 1.20), tufte (>= 0.3), jrData
+Imports: knitr (>= 1.20), tufte (>= 0.3), jrData, glue
 Suggests: rmarkdown (>= 1.9.17), formatR
 License: GPL-3
-MD5sum: 01daf45fcb474dd6873da901ef83169a
+MD5sum: 1fe6a7698c8d9ff80eb66322153edd05
 NeedsCompilation: no
 
 Package: jroreillyregression
