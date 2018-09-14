@@ -243,7 +243,7 @@ Imports: tidyverse, dplyr (>= 0.7.4), readr, tibble (>= 1.4.2),
         lubridate (>= 1.7.2), ggplot2movies, hrbrthemes
 Suggests: knitr, okcupiddata, rmarkdown, ggplot2, jrData, tidyr
 License: GPL-2
-MD5sum: 0cb0d1fdaee2d7fa3be3148dcf0baf48
+MD5sum: 652e317a5d797baf398219e15ac0489b
 NeedsCompilation: no
 
 Package: jrTidyverse2
