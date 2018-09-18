@@ -180,7 +180,7 @@ Depends: R (>= 3.2.0)
 Imports: ggplot2movies, dplyr
 Suggests: knitr, tufte, rmarkdown, formatR
 License: GPL-3
-MD5sum: a32eadfdece41f7527ef2e34b69f3e86
+MD5sum: 99a57d423ae13c75f80f11765d55b589
 NeedsCompilation: no
 
 Package: jrRstan
