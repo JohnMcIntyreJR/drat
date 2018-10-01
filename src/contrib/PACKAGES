@@ -189,7 +189,7 @@ Depends: R (>= 3.2.0)
 Imports: ggplot2movies, dplyr, jrData, rbenchmark
 Suggests: knitr, tufte, rmarkdown, formatR, readr
 License: GPL-3
-MD5sum: a1dcc6a11ec53edeb6ec966bcc196020
+MD5sum: c2db8ebc7044950d41352ba3f08db870
 NeedsCompilation: no
 
 Package: jrRstan
