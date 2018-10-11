@@ -27,7 +27,7 @@ Depends: R (>= 3.3.0)
 Imports: glue
 Suggests: knitr
 License: GPL-2 | GPL-3
-MD5sum: 7464c8603f243285bbf0976d0f690b17
+MD5sum: 084ecca3591c3db22191da401994447f
 NeedsCompilation: no
 
 Package: jrAdvanced
