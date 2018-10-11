@@ -21,6 +21,15 @@ License: GPL-2
 MD5sum: 74f0e55bd47305e64ff1f39ed615882d
 NeedsCompilation: no
 
+Package: headR
+Version: 0.1.1
+Depends: R (>= 3.3.0)
+Imports: glue
+Suggests: knitr
+License: GPL-2 | GPL-3
+MD5sum: 7464c8603f243285bbf0976d0f690b17
+NeedsCompilation: no
+
 Package: jrAdvanced
 Version: 0.1.0
 Depends: R (>= 3.1)
