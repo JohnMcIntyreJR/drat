@@ -276,13 +276,13 @@ MD5sum: 49d93275483275e15517bf73d09c8747
 NeedsCompilation: no
 
 Package: jrWhyR
-Version: 0.1.1
+Version: 0.1.2
 Depends: R (>= 3.3.0)
 Imports: tibble, lubridate
 Suggests: knitr, kableExtra, tidyverse, plotly, DT, heatmaply,
-        ggplot2movies, shiny
+        ggplot2movies, shiny, plumber
 License: GPL-3
-MD5sum: 9f84eaf1677a38d31a4d1ac1f7dd5e58
+MD5sum: 797ae82eb557b730757171f035b52cec
 NeedsCompilation: no
 
 Package: pieR
