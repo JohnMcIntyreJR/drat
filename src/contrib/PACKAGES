@@ -171,7 +171,7 @@ Package: jrPresentation
 Version: 0.1.8
 Imports: knitr (>= 1.20), xaringan (>= 0.6)
 License: GPL-2 | GPL-3
-MD5sum: bbf81d4650c78625e7012188513baa2c
+MD5sum: 901607c32717653412dfcb9c30012267
 NeedsCompilation: no
 
 Package: jrProgBio
