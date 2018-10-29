@@ -25,9 +25,9 @@ Package: headR
 Version: 0.1.1
 Depends: R (>= 3.3.0)
 Imports: glue
-Suggests: knitr
+Suggests: knitr, rmarkdown
 License: GPL-2 | GPL-3
-MD5sum: 8884394a0548bc5c3c4729242982174e
+MD5sum: 87c69e7ebcd430eefc2a97dbd215279f
 NeedsCompilation: no
 
 Package: jrAdvanced
