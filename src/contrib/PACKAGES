@@ -27,7 +27,7 @@ Depends: R (>= 3.3.0)
 Imports: glue
 Suggests: knitr, rmarkdown
 License: GPL-2 | GPL-3
-MD5sum: 3ac19b18882e11c9b7ede8e2aed694eb
+MD5sum: 99dc398030d066cf00629abfcb2e7075
 NeedsCompilation: no
 
 Package: jrAdvanced
