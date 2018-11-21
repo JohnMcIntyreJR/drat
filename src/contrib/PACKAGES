@@ -155,6 +155,18 @@ License: GPL-3 | GPL-2
 MD5sum: 49a6105e5f69943010f2fe3d7a295418
 NeedsCompilation: no
 
+Package: jrPred
+Version: 1.1.0
+Depends: R (>= 3.1.0)
+Imports: caret, AppliedPredictiveModeling, ISLR, pROC, splines,
+        partykit, mlbench, gridExtra, elasticnet, pls, lars, gam,
+        ipred, randomForest, gbm, kernlab, e1071, ggplot2, threejs,
+        nlme, jrData
+Suggests: knitr, shiny, rmarkdown
+License: GPL-3 | GPL-2
+MD5sum: ead410ef870372dd025ec897727f6ed6
+NeedsCompilation: no
+
 Package: jrPredictive
 Version: 1.1.0
 Depends: R (>= 3.1.0)
