@@ -181,10 +181,10 @@ NeedsCompilation: no
 
 Package: jrPresentation
 Version: 0.1.13
-Imports: knitr (>= 1.20), xaringan (>= 0.6), stringr, rsconnect,
-        digest, rmarkdown
+Imports: knitr (>= 1.20), xaringan (>= 0.8), stringr, rsconnect (>=
+        0.8.11), digest, rmarkdown (>= 1.10)
 License: GPL-2 | GPL-3
-MD5sum: 85ef404b90a1a08d60a81a694f582e58
+MD5sum: 23466c468889957420163d26f919c0a7
 NeedsCompilation: no
 
 Package: jrProgBio
