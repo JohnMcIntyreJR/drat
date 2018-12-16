@@ -134,10 +134,10 @@ Package: jrNotes
 Version: 0.3.5
 Depends: R (>= 3.4.0)
 Imports: knitr (>= 1.20), tufte (>= 0.4), jrData, glue, fs, stringr,
-        bookdown, reticulate, jrPresentation
+        bookdown, reticulate, jrPresentation (>= 0.1.14)
 Suggests: rmarkdown (>= 1.10), formatR
 License: GPL-3
-MD5sum: 72b1ad2d5b08e8f1f836c97956a8a31e
+MD5sum: b303442e7f34c56d1ca01ed55b61709a
 NeedsCompilation: no
 
 Package: jroreillyregression
