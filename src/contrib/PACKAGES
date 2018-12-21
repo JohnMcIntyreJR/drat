@@ -39,6 +39,14 @@ License: GPL-3 | GPL-2
 MD5sum: e3b83bbe473d86d26ab6522f07400410
 NeedsCompilation: no
 
+Package: jrAdvPackage
+Version: 0.1.0
+Depends: R (>= 3.0)
+Imports: devtools, knitr, roxygen2, drat, poweRlaw, jrData, pryr, tufte
+License: GPL-3 | GPL-2
+MD5sum: cea185161ff887854c0a35e66a6a8f4f
+NeedsCompilation: no
+
 Package: jrAnalytics
 Version: 0.1.0
 Depends: R (>= 3.2.0)
@@ -134,10 +142,10 @@ Package: jrNotes
 Version: 0.3.5
 Depends: R (>= 3.4.0)
 Imports: knitr (>= 1.20), tufte (>= 0.4), jrData, glue, fs, stringr,
-        bookdown, reticulate, jrPresentation
+        bookdown, reticulate, jrPresentation (>= 0.1.14)
 Suggests: rmarkdown (>= 1.10), formatR
 License: GPL-3
-MD5sum: 72b1ad2d5b08e8f1f836c97956a8a31e
+MD5sum: b303442e7f34c56d1ca01ed55b61709a
 NeedsCompilation: no
 
 Package: jroreillyregression
@@ -220,7 +228,7 @@ Version: 0.1.0
 Depends: plyr, stats, grDevices, graphics
 Suggests: Rdpack, R.rsp
 License: GPL-3 | GPL-2
-MD5sum: 658ee2b2bcd4203c5e7d0704c5823707
+MD5sum: 7a1a858912d6e8baf4df981b982bf79a
 NeedsCompilation: no
 
 Package: jrShiny
@@ -272,10 +280,10 @@ Package: jrTidyverse
 Version: 0.1.4
 Depends: R (>= 3.3.0)
 Imports: tidyverse, dplyr (>= 0.7.4), readr, tibble (>= 1.4.2),
-        lubridate (>= 1.7.2), ggplot2movies, hrbrthemes
-Suggests: knitr, okcupiddata, rmarkdown, ggplot2, jrData, tidyr
+        lubridate (>= 1.7.2), ggplot2movies, hrbrthemes, wordcloud
+Suggests: knitr, gutenbergr, rmarkdown, ggplot2
 License: GPL-2
-MD5sum: 9573e6f1df96120c86d76a37e349f248
+MD5sum: 7397e47088acd27232b4084dc437e6c7
 NeedsCompilation: no
 
 Package: jrTidyverse2
