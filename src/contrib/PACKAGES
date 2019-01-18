@@ -44,7 +44,7 @@ Version: 0.1.0
 Depends: R (>= 3.0)
 Imports: devtools, knitr, roxygen2, drat, poweRlaw, jrData, pryr, tufte
 License: GPL-3 | GPL-2
-MD5sum: cea185161ff887854c0a35e66a6a8f4f
+MD5sum: 6b37f5e25ea05bc241902bf097686010
 NeedsCompilation: no
 
 Package: jrAnalytics
