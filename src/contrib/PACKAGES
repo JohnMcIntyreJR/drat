@@ -229,7 +229,7 @@ Version: 0.1.1
 Depends: plyr, stats, grDevices, graphics
 Suggests: Rdpack, R.rsp, rstan, shinystan, RcppEigen
 License: GPL-3 | GPL-2
-MD5sum: 3cf0f5c8763dd1ea2edda5d2571f9e43
+MD5sum: 47c13fdc3853329a87fcbb3cb87c0e1c
 NeedsCompilation: no
 
 Package: jrShiny
