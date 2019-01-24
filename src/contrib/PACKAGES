@@ -135,7 +135,7 @@ Depends: R (>= 3.2.0)
 Imports: coin, shiny, ggplot2, titanic, jrData
 Suggests: survival, knitr
 License: GPL-3 | GPL-2
-MD5sum: 5b6e9130835b16fda6cafff189fbf2f8
+MD5sum: 72db4badce7d4552d99486454d34770a
 NeedsCompilation: no
 
 Package: jrNotes
