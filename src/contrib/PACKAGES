@@ -225,11 +225,11 @@ MD5sum: c2db8ebc7044950d41352ba3f08db870
 NeedsCompilation: no
 
 Package: jrRstan
-Version: 0.1.0
+Version: 0.1.1
 Depends: plyr, stats, grDevices, graphics
-Suggests: Rdpack, R.rsp
+Suggests: Rdpack, R.rsp, rstan, shinystan, RcppEigen
 License: GPL-3 | GPL-2
-MD5sum: 7a1a858912d6e8baf4df981b982bf79a
+MD5sum: 3cf0f5c8763dd1ea2edda5d2571f9e43
 NeedsCompilation: no
 
 Package: jrShiny
