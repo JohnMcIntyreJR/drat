@@ -284,7 +284,7 @@ Imports: tidyverse, dplyr (>= 0.7.4), readr, tibble (>= 1.4.2),
         lubridate (>= 1.7.2), ggplot2movies, hrbrthemes, wordcloud
 Suggests: knitr, gutenbergr, rmarkdown, ggplot2
 License: GPL-2
-MD5sum: 7397e47088acd27232b4084dc437e6c7
+MD5sum: 1c0ecd3ae3f423194bcc6e1d51b4f5a5
 NeedsCompilation: no
 
 Package: jrTidyverse2
