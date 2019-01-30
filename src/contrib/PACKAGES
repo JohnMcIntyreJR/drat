@@ -194,7 +194,7 @@ Version: 0.1.14
 Imports: knitr (>= 1.20), xaringan (>= 0.8), stringr, rsconnect (>=
         0.8.11), digest, rmarkdown (>= 1.10)
 License: GPL-2 | GPL-3
-MD5sum: 4ac940f57d02f079da781718f2246884
+MD5sum: fb71252a69e10037c6fcefaf2a013d2c
 NeedsCompilation: no
 
 Package: jrProgBio
