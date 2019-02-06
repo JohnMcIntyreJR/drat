@@ -106,9 +106,9 @@ Package: jrGgplot2
 Version: 0.1.2
 Depends: R (>= 3.3.0)
 Imports: hexbin, ggplot2, ggplot2movies, quantreg, jrData
-Suggests: knitr
+Suggests: knitr, tufte
 License: GPL-2 | GPL-3
-MD5sum: 51963f7176b68d2c656ab8824cb13843
+MD5sum: 86dead772b23711404a8857477ee151f
 NeedsCompilation: no
 
 Package: jrIntroBio
