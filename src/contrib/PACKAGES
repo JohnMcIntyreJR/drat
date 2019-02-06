@@ -33,10 +33,10 @@ NeedsCompilation: no
 Package: jrAdvanced
 Version: 0.1.0
 Depends: R (>= 3.1)
-Imports: pryr, jrData
-Suggests: knitr, fortunes
+Imports: pryr
+Suggests: knitr, fortunes, tufte, rmarkdown
 License: GPL-3 | GPL-2
-MD5sum: e3b83bbe473d86d26ab6522f07400410
+MD5sum: 2fad34cc9748370cc32df2e27b718405
 NeedsCompilation: no
 
 Package: jrAdvPackage
