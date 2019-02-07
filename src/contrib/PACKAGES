@@ -97,9 +97,9 @@ Package: jrEfficient
 Version: 0.1.0
 Depends: R (>= 3.2.0)
 Imports: rbenchmark, jrData
-Suggests: knitr, readr
+Suggests: knitr, readr, tufte, formatR
 License: GPL-3
-MD5sum: 1e72a8e6c3c2f12e8f94fd3a62e878cc
+MD5sum: 96f99a5ccdaa7bccb7316b4a59a1a828
 NeedsCompilation: no
 
 Package: jrGgplot2
