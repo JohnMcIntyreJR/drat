@@ -36,7 +36,7 @@ Depends: R (>= 3.1)
 Imports: pryr
 Suggests: knitr, fortunes, tufte, rmarkdown
 License: GPL-3 | GPL-2
-MD5sum: 2fad34cc9748370cc32df2e27b718405
+MD5sum: ff195b9d5fdc840c0fb93f63f1c397f5
 NeedsCompilation: no
 
 Package: jrAdvPackage
