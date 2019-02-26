@@ -96,10 +96,10 @@ NeedsCompilation: no
 Package: jrEfficient
 Version: 0.1.0
 Depends: R (>= 3.2.0)
-Imports: rbenchmark, jrData
+Imports: rbenchmark, jrData, bench
 Suggests: knitr, readr, tufte, formatR
 License: GPL-3
-MD5sum: 96f99a5ccdaa7bccb7316b4a59a1a828
+MD5sum: 819bff4bf308b0e313d7b43d4d3744cc
 NeedsCompilation: no
 
 Package: jrGgplot2
