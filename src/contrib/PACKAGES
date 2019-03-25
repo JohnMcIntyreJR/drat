@@ -132,10 +132,10 @@ NeedsCompilation: no
 Package: jrModelling
 Version: 0.1.0
 Depends: R (>= 3.2.0)
-Imports: coin, shiny, ggplot2, titanic, jrData
-Suggests: survival, knitr
+Imports: coin, shiny, ggplot2, titanic, mvtnorm
+Suggests: survival, knitr, jrData
 License: GPL-3 | GPL-2
-MD5sum: 72db4badce7d4552d99486454d34770a
+MD5sum: afa31eee9ff3cb15cf71e3f196ae816a
 NeedsCompilation: no
 
 Package: jrNotes
