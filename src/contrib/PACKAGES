@@ -130,12 +130,12 @@ MD5sum: 5e5584b88f0e9443f0c1755132aad2c7
 NeedsCompilation: no
 
 Package: jrModelling
-Version: 0.1.0
+Version: 0.1.1
 Depends: R (>= 3.2.0)
 Imports: coin, shiny, ggplot2, titanic, mvtnorm
-Suggests: survival, knitr, jrData
+Suggests: survival, knitr, jrData, testthat, lintr
 License: GPL-3 | GPL-2
-MD5sum: afa31eee9ff3cb15cf71e3f196ae816a
+MD5sum: e762f1ed6bc498740d751429d5fb7f9b
 NeedsCompilation: no
 
 Package: jrNotes
