@@ -292,7 +292,7 @@ NeedsCompilation: no
 Package: jrTesting
 Version: 0.1.0
 License: GPL-3
-MD5sum: 25ea9d91822c8aefd1a83773ce57f295
+MD5sum: 7d242f4fb9d7aebe5f457728bb0bceb9
 NeedsCompilation: no
 
 Package: jrTidyverse
