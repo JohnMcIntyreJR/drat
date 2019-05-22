@@ -102,7 +102,7 @@ Package: jrData
 Version: 0.1.0
 Depends: R (>= 2.10)
 License: GPL-2
-MD5sum: a583837da48abf4f197791e30ee7363e
+MD5sum: 4d27cad6732d50fcc661984d28b83359
 NeedsCompilation: no
 
 Package: jrDocker
