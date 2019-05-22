@@ -264,12 +264,12 @@ NeedsCompilation: no
 
 Package: jrSouth
 Version: 0.1.1
-Depends: R (>= 3.3.0)
+Depends: R (>= 3.5.0)
 Imports: hexbin, ggplot2, ggplot2movies, quantreg, ggthemes,
         hrbrthemes, jrData, jrIntroduction, jrProgramming
 Suggests: knitr
 License: GPL-2 | GPL-3
-MD5sum: 57f7cfb0212649d9afd0bd1e25807656
+MD5sum: 9ddbbff741e2e6bf5585e05f3d7936ba
 NeedsCompilation: no
 
 Package: jrSpatial
