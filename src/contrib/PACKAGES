@@ -323,7 +323,7 @@ Imports: tibble, lubridate, heatmaply
 Suggests: knitr, kableExtra, tidyverse, plotly, DT, ggplot2movies,
         shiny, plumber
 License: GPL-3
-MD5sum: c55c2fce75d8809842fb97e7d4384a18
+MD5sum: cc05712deee7fbf04f9e296b9fd1a488
 NeedsCompilation: no
 
 Package: pieR
