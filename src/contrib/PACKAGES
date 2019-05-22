@@ -153,7 +153,7 @@ Depends: R (>= 3.2.0)
 Imports: coin, shiny, ggplot2, titanic, mvtnorm
 Suggests: survival, knitr, jrData, testthat, lintr
 License: GPL-3 | GPL-2
-MD5sum: e762f1ed6bc498740d751429d5fb7f9b
+MD5sum: 9659560b5f1fc9d8b2ea65fec54dd176
 NeedsCompilation: no
 
 Package: jrNotes
