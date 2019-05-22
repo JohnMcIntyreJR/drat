@@ -117,7 +117,7 @@ Depends: R (>= 3.2.0)
 Imports: rbenchmark, jrData, bench
 Suggests: knitr, readr, tufte, formatR
 License: GPL-3
-MD5sum: 819bff4bf308b0e313d7b43d4d3744cc
+MD5sum: 2420fb8da6f64a0326740526d74d3b68
 NeedsCompilation: no
 
 Package: jrGgplot2
