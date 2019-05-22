@@ -11,7 +11,7 @@ Depends: R (>= 3.3)
 Imports: Rcpp, profvis, microbenchmark
 Suggests: knitr, readr, rmarkdown
 License: GPL-2
-MD5sum: 21db23837a9481395aeb20d525b00fa1
+MD5sum: eafd66a1fb9f2b20a096edf3137f6faa
 NeedsCompilation: no
 
 Package: gaugeR
