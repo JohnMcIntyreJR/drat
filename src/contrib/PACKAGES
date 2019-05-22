@@ -121,12 +121,12 @@ MD5sum: 819bff4bf308b0e313d7b43d4d3744cc
 NeedsCompilation: no
 
 Package: jrGgplot2
-Version: 0.1.2
+Version: 0.1.3
 Depends: R (>= 3.3.0)
 Imports: hexbin, ggplot2, ggplot2movies, quantreg, jrData
-Suggests: knitr, tufte
+Suggests: knitr, tufte, testthat, lintr
 License: GPL-2 | GPL-3
-MD5sum: 86dead772b23711404a8857477ee151f
+MD5sum: baef2500feca96e585be9513b2b1bf3d
 NeedsCompilation: no
 
 Package: jrIntroBio
