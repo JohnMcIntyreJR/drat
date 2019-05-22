@@ -170,9 +170,9 @@ NeedsCompilation: no
 Package: jroreillyregression
 Version: 0.1.0
 Depends: R(>= 3.0)
-Suggests: knitr, caret, glmnet
+Suggests: knitr, caret, rmarkdown, glmnet
 License: GPL-3
-MD5sum: 2d870dde518cc6b1e1e7fd2bd9e0834d
+MD5sum: b2461baee4f1964a027b0b6520fd870f
 NeedsCompilation: no
 
 Package: jrPackage
