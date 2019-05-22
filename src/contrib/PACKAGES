@@ -108,7 +108,7 @@ NeedsCompilation: no
 Package: jrDocker
 Version: 0.1.0
 License: GPL-3
-MD5sum: 96de17a8bec025d45bb1c5e4c0a74447
+MD5sum: d9d432044466cbf06c288805d598f6ee
 NeedsCompilation: no
 
 Package: jrEfficient
