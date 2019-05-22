@@ -40,12 +40,12 @@ MD5sum: 4ab8c423c95c757a8ac22133bf13f397
 NeedsCompilation: no
 
 Package: jrAdvanced
-Version: 0.1.0
+Version: 0.1.1
 Depends: R (>= 3.1)
 Imports: pryr
-Suggests: knitr, fortunes, tufte, rmarkdown
+Suggests: knitr, fortunes, tufte, rmarkdown, testthat, lintr
 License: GPL-3 | GPL-2
-MD5sum: b492cfa02bbc684f2b14ed042267c130
+MD5sum: c315b2030328677a7107b15e05b8ef29
 NeedsCompilation: no
 
 Package: jrAdvGgplot2
