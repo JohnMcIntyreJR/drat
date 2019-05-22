@@ -252,7 +252,7 @@ MD5sum: c202b50d072087c37de2dd5a6009bc07
 NeedsCompilation: no
 
 Package: jrShiny
-Version: 0.1
+Version: 0.1.1
 Depends: R (>= 3.2)
 Imports: utils, ggplot2movies, drat
 Suggests: knitr, shiny, formattable, edgebundleR,
@@ -260,7 +260,7 @@ Suggests: knitr, shiny, formattable, edgebundleR,
         MASS, htmlwidgets, ggiraph, sparkline, rmarkdown,
         flexdashboard,plotly,dygraphs, rsconnect, revealjs
 License: CC0
-MD5sum: 0c484aeb6fd12a17d3d357e75314fe20
+MD5sum: 4a63554e8f73c463f787b5f62315b2d5
 NeedsCompilation: no
 
 Package: jrSouth
