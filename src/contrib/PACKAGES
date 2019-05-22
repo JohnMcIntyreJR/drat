@@ -81,9 +81,10 @@ Imports: utils, ggplot2movies, drat
 Suggests: knitr, shiny, formattable, edgebundleR,
         DT,d3heatmap,networkD3, ggplot2, gridSVG, svgPanZoom,svglite,
         MASS, htmlwidgets, ggiraph, sparkline, rmarkdown,
-        flexdashboard,plotly,dygraphs, rsconnect, revealjs, tufte
+        flexdashboard,plotly,dygraphs, rsconnect, revealjs, tufte,
+        formatR
 License: CC0
-MD5sum: 7565bfdfb21a4711dc8f90f5eaba1d07
+MD5sum: 69f25c07a7a847eadb7854dd65f16527
 NeedsCompilation: no
 
 Package: jrBig
