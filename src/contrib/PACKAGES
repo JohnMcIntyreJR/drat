@@ -274,11 +274,12 @@ MD5sum: 9ddbbff741e2e6bf5585e05f3d7936ba
 NeedsCompilation: no
 
 Package: jrSpatial
-Version: 0.1.0
+Version: 0.1.1
 Depends: R (>= 2.10)
 Imports: tidyverse, sf, tmaptools, tmap, spData, raster
+Suggests: testthat, lintr
 License: GPL-2
-MD5sum: a899daddab59c9a8e11a7496c35340d5
+MD5sum: da41756d9a14b7dcae1ab1440b9caa25
 NeedsCompilation: no
 
 Package: jRsql
