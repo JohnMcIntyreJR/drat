@@ -165,9 +165,9 @@ Imports: knitr (>= 1.22), tufte (>= 0.4), jrData, glue, fs, stringr,
         bookdown, reticulate (>= 1.11.1), jrPresentation (>= 0.1.14),
         config, digest, purrr, namer (>= 0.1.4)
 Suggests: rmarkdown (>= 1.12), formatR, testthat, lintr, drat,
-        hrbrthemes
+        hrbrthemes, gridExtra
 License: GPL-3
-MD5sum: 8cf4d1e48f9762ace49257ba8d531d39
+MD5sum: 30635b753a748954e5be382ac798e93f
 NeedsCompilation: no
 
 Package: jroreillyregression
