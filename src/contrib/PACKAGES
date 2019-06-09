@@ -164,9 +164,10 @@ Depends: R (>= 3.4.0)
 Imports: knitr (>= 1.22), tufte (>= 0.4), jrData, glue, fs, stringr,
         bookdown, reticulate (>= 1.11.1), jrPresentation (>= 0.1.14),
         config, digest, purrr, namer (>= 0.1.4)
-Suggests: rmarkdown (>= 1.12), formatR, testthat, lintr, drat
+Suggests: rmarkdown (>= 1.12), formatR, testthat, lintr, drat,
+        hrbrthemes
 License: GPL-3
-MD5sum: 63c9d6331012934c27b89633ce70330d
+MD5sum: 07f02ae533e1d48d232d2ae7fbff714a
 NeedsCompilation: no
 
 Package: jroreillyregression
