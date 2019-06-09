@@ -166,7 +166,7 @@ Imports: knitr (>= 1.22), tufte (>= 0.4), jrData, glue, fs, stringr,
         config, digest, purrr, namer (>= 0.1.4)
 Suggests: rmarkdown (>= 1.12), formatR, testthat, lintr
 License: GPL-3
-MD5sum: a617b080c4af43ff46a7dcfc8d9efb13
+MD5sum: fedba8d30b38558869666cf2d578a16c
 NeedsCompilation: no
 
 Package: jroreillyregression
