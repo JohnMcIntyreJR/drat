@@ -132,12 +132,12 @@ MD5sum: baef2500feca96e585be9513b2b1bf3d
 NeedsCompilation: no
 
 Package: jrIntroBio
-Version: 0.0.0.9000
+Version: 0.0.0.9100
 Depends: R (>= 3.2.0)
 Imports: ggplot2movies, dplyr (>= 0.7.0), readr, readxl, jrData
-Suggests: knitr, tufte, rmarkdown, formatR
+Suggests: knitr, tufte, rmarkdown, formatR, testthat, lintr
 License: GPL-3
-MD5sum: f10ff866d58822f7a3b2a3c165d53c42
+MD5sum: f29c92362f47374c1c7941b93b628b80
 NeedsCompilation: no
 
 Package: jrIntroduction
