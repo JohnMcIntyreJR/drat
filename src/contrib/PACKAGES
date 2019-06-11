@@ -100,10 +100,11 @@ MD5sum: 6e9f7d5fa963457efaa394a0ae6195f9
 NeedsCompilation: no
 
 Package: jrData
-Version: 0.1.0
+Version: 0.1.1
 Depends: R (>= 2.10)
+Suggests: testthat, lintr
 License: GPL-2
-MD5sum: 4d27cad6732d50fcc661984d28b83359
+MD5sum: a560fe5838f8e81b59c561ddb4f0dfb1
 NeedsCompilation: no
 
 Package: jrDocker
