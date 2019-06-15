@@ -180,11 +180,12 @@ MD5sum: b2461baee4f1964a027b0b6520fd870f
 NeedsCompilation: no
 
 Package: jrPackage
-Version: 0.1.0
+Version: 0.1.1
 Depends: R (>= 3.0)
-Imports: devtools, knitr, roxygen2, drat, poweRlaw, testthat
+Imports: devtools, knitr, roxygen2, drat, poweRlaw, testthat, jrData,
+        lintr
 License: GPL-3 | GPL-2
-MD5sum: 49a6105e5f69943010f2fe3d7a295418
+MD5sum: 7fb61946f333be80a722e8b88d6fa9b8
 NeedsCompilation: no
 
 Package: jrPred
