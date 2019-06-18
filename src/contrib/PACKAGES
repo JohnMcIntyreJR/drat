@@ -256,16 +256,16 @@ MD5sum: c202b50d072087c37de2dd5a6009bc07
 NeedsCompilation: no
 
 Package: jrShiny
-Version: 0.1.2
-Depends: R (>= 3.2)
-Imports: utils, ggplot2movies, drat
-Suggests: knitr, shiny, formattable, edgebundleR,
-        DT,d3heatmap,networkD3, ggplot2, gridSVG, svgPanZoom,svglite,
-        MASS, htmlwidgets, ggiraph, sparkline, rmarkdown,
-        flexdashboard,plotly,dygraphs, rsconnect, revealjs, lintr,
-        testthat
+Version: 0.1.3
+Depends: R (>= 3.3)
+Imports: utils, ggplot2movies, drat, shinydashboard, shiny, DT,
+        rmarkdown
+Suggests: knitr, formattable, edgebundleR, d3heatmap, networkD3,
+        ggplot2, gridSVG, svgPanZoom,svglite, MASS, htmlwidgets,
+        ggiraph, sparkline, flexdashboard, plotly, dygraphs, rsconnect,
+        revealjs, lintr, testthat
 License: CC0
-MD5sum: 79b59c7c7a533018e7cccf43fda17b74
+MD5sum: 8f769442b0bac9c58bd3cf4808ef29ee
 NeedsCompilation: no
 
 Package: jrSouth
