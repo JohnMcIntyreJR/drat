@@ -161,14 +161,14 @@ MD5sum: 9659560b5f1fc9d8b2ea65fec54dd176
 NeedsCompilation: no
 
 Package: jrNotes
-Version: 0.4.9
+Version: 0.4.10
 Depends: R (>= 3.4.0)
 Imports: knitr (>= 1.22), tufte (>= 0.4), jrData, glue, fs, stringr,
         bookdown, reticulate (>= 1.11.1), jrPresentation (>= 0.1.14),
         config, digest, purrr, namer (>= 0.1.4), qpdf
 Suggests: rmarkdown (>= 1.12), formatR, testthat, lintr, drat
 License: GPL-3
-MD5sum: 0183a0a21ad93475eb9f99eed74a9046
+MD5sum: f3ec9e6eb66472564e6c2df9a748fff3
 NeedsCompilation: no
 
 Package: jroreillyregression
