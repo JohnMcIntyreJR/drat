@@ -148,7 +148,7 @@ Imports: ggplot2movies, dplyr (>= 0.7.0), readr, readxl
 Suggests: knitr, tufte, rmarkdown, formatR, testthat, lintr,
         hrbrthemes, gridExtra
 License: GPL-3
-MD5sum: 2db153493eb97409e606a91e6ea51219
+MD5sum: d69d770299e8d91d563d13fc143eec85
 NeedsCompilation: no
 
 Package: jrModelling
