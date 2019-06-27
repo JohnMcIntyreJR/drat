@@ -111,7 +111,7 @@ Package: jrDocker
 Version: 0.1.0
 Suggests: testthat, lintr
 License: GPL-3
-MD5sum: e0fb7d0b60ad8103418c2b168d08abe3
+MD5sum: 7f33f60396ebccff1da0ebb67cd07e0c
 NeedsCompilation: no
 
 Package: jrEfficient
