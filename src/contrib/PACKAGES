@@ -155,9 +155,9 @@ Package: jrModelling
 Version: 0.1.1
 Depends: R (>= 3.2.0)
 Imports: coin, shiny, ggplot2, titanic, mvtnorm
-Suggests: survival, knitr, jrData, testthat, lintr
+Suggests: survival, knitr, jrData, testthat, lintr, cowsay
 License: GPL-3 | GPL-2
-MD5sum: e180d7840d249c634ad647f874d5898e
+MD5sum: 360eaae36427f0291fca335b70d2b1cd
 NeedsCompilation: no
 
 Package: jrNotes
