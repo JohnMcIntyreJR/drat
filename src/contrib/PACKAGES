@@ -182,10 +182,10 @@ NeedsCompilation: no
 Package: jrPackage
 Version: 0.1.1
 Depends: R (>= 3.0)
-Imports: devtools, knitr, roxygen2, drat, poweRlaw, testthat, jrData,
-        lintr
+Imports: devtools, tinytex, knitr, roxygen2, drat, poweRlaw, testthat,
+        jrData, lintr
 License: GPL-3 | GPL-2
-MD5sum: b8005692ec7c9938163cab9944b7eee3
+MD5sum: 9b4ad2646d93b47c1ca42e9add138c22
 NeedsCompilation: no
 
 Package: jrPred
