@@ -303,13 +303,13 @@ MD5sum: 7d242f4fb9d7aebe5f457728bb0bceb9
 NeedsCompilation: no
 
 Package: jrTidyverse
-Version: 0.1.4
+Version: 0.1.5
 Depends: R (>= 3.3.0)
 Imports: tidyverse, dplyr (>= 0.7.4), readr, tibble (>= 1.4.2),
         lubridate (>= 1.7.2), ggplot2movies, hrbrthemes, wordcloud
-Suggests: knitr, gutenbergr, rmarkdown, ggplot2
+Suggests: knitr, gutenbergr, rmarkdown, ggplot2, testthat, lintr
 License: GPL-2
-MD5sum: 1c0ecd3ae3f423194bcc6e1d51b4f5a5
+MD5sum: 458694b336528677c2cd8f1528656d04
 NeedsCompilation: no
 
 Package: jrTidyverse2
