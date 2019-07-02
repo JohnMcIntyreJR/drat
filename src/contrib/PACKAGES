@@ -213,11 +213,11 @@ MD5sum: 0c27710e3760a4803475bb9505d99ce6
 NeedsCompilation: no
 
 Package: jrPresentation
-Version: 0.1.18
+Version: 0.1.19
 Imports: knitr (>= 1.20), xaringan (>= 0.8), stringr, rsconnect (>=
         0.8.11), digest, rmarkdown (>= 1.10), config, fs, lintr
 License: GPL-2 | GPL-3
-MD5sum: c72e768faf1675ed3d2a300b7e473bef
+MD5sum: 350312aaa59c9bfb355ed081558e44da
 NeedsCompilation: no
 
 Package: jrProgBio
