@@ -129,7 +129,7 @@ Depends: R (>= 3.3.0)
 Imports: hexbin, ggplot2, ggplot2movies, quantreg, jrData
 Suggests: knitr, tufte, testthat, lintr
 License: GPL-2 | GPL-3
-MD5sum: baef2500feca96e585be9513b2b1bf3d
+MD5sum: ba8cf336468c1d61dc817cda46b0af29
 NeedsCompilation: no
 
 Package: jrIntroBio
