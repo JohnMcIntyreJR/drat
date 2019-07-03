@@ -257,16 +257,15 @@ MD5sum: c202b50d072087c37de2dd5a6009bc07
 NeedsCompilation: no
 
 Package: jrShiny
-Version: 1.1.3
-Depends: R (>= 3.3)
+Version: 1.1.4
+Depends: R (>= 3.5)
 Imports: utils, ggplot2movies, drat, shinydashboard, shiny, DT,
-        rmarkdown
-Suggests: knitr, formattable, edgebundleR, d3heatmap, networkD3,
-        ggplot2, gridSVG, svgPanZoom,svglite, MASS, htmlwidgets,
-        ggiraph, sparkline, flexdashboard, plotly, dygraphs, rsconnect,
-        revealjs, lintr, testthat
+        rmarkdown, ggplot2, knitr, plotly
+Suggests: formattable, edgebundleR, d3heatmap, networkD3, gridSVG,
+        svgPanZoom, svglite, MASS, htmlwidgets, ggiraph, sparkline,
+        flexdashboard, dygraphs, rsconnect, lintr, testthat
 License: CC0
-MD5sum: a2380c27e1021f7abd5d25864ee36166
+MD5sum: c20964e0b34593870e6e18226b30fa89
 NeedsCompilation: no
 
 Package: jrSouth
