@@ -128,9 +128,9 @@ Version: 0.1.4
 Depends: R (>= 3.3.0)
 Imports: hexbin, ggplot2, ggplot2movies, quantreg, jrData, ggthemes,
         hrbrthemes, ggridges, gridExtra
-Suggests: knitr, tufte, testthat, lintr
+Suggests: knitr, tufte, testthat, lintr, DT
 License: GPL-2 | GPL-3
-MD5sum: 51be87ec4ff77ba3a2750b2831b62e5b
+MD5sum: a2830078bb5eb0e23832ddf78f2c6c4b
 NeedsCompilation: no
 
 Package: jrIntroBio
