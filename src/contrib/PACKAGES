@@ -127,10 +127,10 @@ Package: jrGgplot2
 Version: 0.1.4
 Depends: R (>= 3.3.0)
 Imports: hexbin, ggplot2, ggplot2movies, quantreg, jrData, ggthemes,
-        hrbrthemes, ggridges
+        hrbrthemes, ggridges, gridExtra
 Suggests: knitr, tufte, testthat, lintr
 License: GPL-2 | GPL-3
-MD5sum: 0c27d06ed2595bcde24d04ee90a8f2aa
+MD5sum: 51be87ec4ff77ba3a2750b2831b62e5b
 NeedsCompilation: no
 
 Package: jrIntroBio
