@@ -310,7 +310,7 @@ Imports: tidyverse, dplyr (>= 0.7.4), readr, tibble (>= 1.4.2),
         lubridate (>= 1.7.2), ggplot2movies, hrbrthemes, wordcloud
 Suggests: knitr, gutenbergr, rmarkdown, ggplot2, testthat, lintr
 License: GPL-2
-MD5sum: 458694b336528677c2cd8f1528656d04
+MD5sum: a769d05dea971a32ae798483d5bc2412
 NeedsCompilation: no
 
 Package: jrTidyverse2
