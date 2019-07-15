@@ -308,10 +308,10 @@ Version: 0.1.5
 Depends: R (>= 3.3.0)
 Imports: tidyverse, dplyr (>= 0.7.4), readr, tibble (>= 1.4.2),
         lubridate (>= 1.7.2), ggplot2movies, hrbrthemes, wordcloud,
-        tidyr
-Suggests: knitr, gutenbergr, rmarkdown, ggplot2, testthat, lintr
+        tidyr, ggplot2, plotly
+Suggests: knitr, gutenbergr, rmarkdown, testthat, lintr, gridExtra
 License: GPL-2
-MD5sum: eaab6fb533a6c6f7b0cfd08efcd33bf5
+MD5sum: d99a119d16965bbe0612fe7869c816a0
 NeedsCompilation: no
 
 Package: jrTidyverse2
