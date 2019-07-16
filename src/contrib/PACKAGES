@@ -216,10 +216,11 @@ NeedsCompilation: no
 
 Package: jrPresentation
 Version: 0.1.19
-Imports: knitr (>= 1.20), xaringan (>= 0.8), stringr, rsconnect (>=
-        0.8.11), digest, rmarkdown (>= 1.10), config, fs, lintr
+Imports: config, digest, fs, knitr (>= 1.20), lintr, rmarkdown (>=
+        1.10), rsconnect (>= 0.8.11), stringr, xaringan (>= 0.8)
+Suggests: countdown
 License: GPL-2 | GPL-3
-MD5sum: 350312aaa59c9bfb355ed081558e44da
+MD5sum: 2bd52d2e43e1fe6adc4dadb127e0b7f6
 NeedsCompilation: no
 
 Package: jrProgBio
