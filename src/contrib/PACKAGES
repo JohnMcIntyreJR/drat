@@ -170,7 +170,7 @@ Imports: knitr (>= 1.22), tufte (>= 0.4), jrData, glue, fs, stringr,
         cli, tibble, dplyr, spelling
 Suggests: rmarkdown (>= 1.12), formatR, testthat, lintr, drat
 License: GPL-3
-MD5sum: 669fde1bdf92554ccd0af763101d3e21
+MD5sum: 4ba8a94a9a9674d8a0c3e6dbcc5f450e
 NeedsCompilation: no
 
 Package: jroreillyregression
