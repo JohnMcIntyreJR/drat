@@ -152,6 +152,16 @@ License: GPL-3
 MD5sum: ffa6523cfcb932c20c60776dd32fcc54
 NeedsCompilation: no
 
+Package: jrIntroductionRSS
+Version: 0.1.20
+Depends: R (>= 3.2.0)
+Imports: ggplot2movies, dplyr (>= 0.7.0), readr, readxl
+Suggests: knitr, tufte, rmarkdown, formatR, testthat, lintr,
+        hrbrthemes, gridExtra
+License: GPL-3
+MD5sum: 7383a7f6844c387a47ae75e7468cde27
+NeedsCompilation: no
+
 Package: jrModelling
 Version: 0.1.1
 Depends: R (>= 3.2.0)
