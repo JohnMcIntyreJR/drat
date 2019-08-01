@@ -145,11 +145,11 @@ NeedsCompilation: no
 Package: jrIntroduction
 Version: 1.0.0
 Depends: R (>= 3.2.0)
-Imports: ggplot2movies, dplyr (>= 0.7.0), readr, readxl, ggplot2
-Suggests: knitr, tufte, rmarkdown, formatR, testthat, lintr,
-        hrbrthemes, gridExtra
+Imports: dplyr (>= 0.7.0), ggplot2, ggplot2movies, readr, readxl
+Suggests: formatR, gridExtra, hrbrthemes, knitr, lintr, rmarkdown,
+        testthat, tufte
 License: GPL-3
-MD5sum: ffa6523cfcb932c20c60776dd32fcc54
+MD5sum: 5f92c09c19654d09ffc91084d8c4b134
 NeedsCompilation: no
 
 Package: jrIntroductionRSS
