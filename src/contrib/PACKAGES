@@ -293,11 +293,11 @@ NeedsCompilation: no
 
 Package: jrSpatial
 Version: 0.1.1
-Depends: R (>= 2.10)
-Imports: tidyverse, sf, tmaptools, tmap, spData, raster
-Suggests: testthat, lintr
+Depends: R (>= 3.3.0)
+Imports: raster, sf, tidyverse, tmap
+Suggests: lintr, testthat
 License: GPL-2
-MD5sum: da41756d9a14b7dcae1ab1440b9caa25
+MD5sum: 576b291acb88e5725673963421e2f7a1
 NeedsCompilation: no
 
 Package: jRsql
