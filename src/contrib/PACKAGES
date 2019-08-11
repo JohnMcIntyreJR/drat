@@ -297,7 +297,7 @@ Depends: R (>= 3.3.0)
 Imports: raster, sf, tidyverse, tmap
 Suggests: lintr, testthat
 License: GPL-2
-MD5sum: 576b291acb88e5725673963421e2f7a1
+MD5sum: a040848d2e2392e468c85a366bac6278
 NeedsCompilation: no
 
 Package: jRsql
