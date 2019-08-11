@@ -180,7 +180,7 @@ Imports: bookdown, cli, config, crayon, digest, dplyr, fs, glue, httr,
         tibble, tufte (>= 0.4)
 Suggests: drat, formatR, lintr, rmarkdown (>= 1.12), testthat
 License: GPL-3
-MD5sum: 53026d3110d7fbae8ac6fe9adc092465
+MD5sum: b8ed5af5a6d7d100c9032a7ff6333884
 NeedsCompilation: no
 
 Package: jroreillyregression
