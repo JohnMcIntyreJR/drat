@@ -165,10 +165,11 @@ NeedsCompilation: no
 Package: jrModelling
 Version: 0.1.1
 Depends: R (>= 3.2.0)
-Imports: coin, shiny, ggplot2, titanic, mvtnorm
+Imports: coin, shiny, ggplot2, titanic, mvtnorm, rmarkdown, tufte,
+        gridExtra, broom, tibble
 Suggests: survival, knitr, jrData, testthat, lintr, cowsay, DT
 License: GPL-3 | GPL-2
-MD5sum: c046fb9576f0229d172c91a59e3bac44
+MD5sum: e1453a69d1be6499ccb04f97373dce0e
 NeedsCompilation: no
 
 Package: jrNotes
