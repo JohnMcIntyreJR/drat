@@ -169,7 +169,7 @@ Imports: coin, shiny, ggplot2, titanic, mvtnorm, rmarkdown, tufte,
         gridExtra, broom, tibble
 Suggests: survival, knitr, jrData, testthat, lintr, cowsay, DT
 License: GPL-3 | GPL-2
-MD5sum: e1453a69d1be6499ccb04f97373dce0e
+MD5sum: 97a4726ce309c7bd2856ef4378ea6afa
 NeedsCompilation: no
 
 Package: jrNotes
