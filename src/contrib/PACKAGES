@@ -84,7 +84,7 @@ Suggests: knitr, shiny, formattable, edgebundleR,
         flexdashboard,plotly,dygraphs, rsconnect, revealjs, tufte,
         formatR, testthat, lintr
 License: CC0
-MD5sum: 24357b6ec95e450d85da9f6e63174611
+MD5sum: 9acecf7c0be1061f85b59096548074a9
 NeedsCompilation: no
 
 Package: jrBig
