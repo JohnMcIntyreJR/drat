@@ -130,7 +130,7 @@ Imports: hexbin, ggplot2, ggplot2movies, quantreg, jrData, ggthemes,
         hrbrthemes, ggridges, gridExtra, ggrepel
 Suggests: knitr, tufte, testthat, lintr, DT
 License: GPL-2 | GPL-3
-MD5sum: 343fa2302d73d5ef94c601cbab7441b8
+MD5sum: 542af356a362026584a83fcdf3738280
 NeedsCompilation: no
 
 Package: jrIntroBio
