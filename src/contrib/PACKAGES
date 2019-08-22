@@ -324,7 +324,7 @@ Imports: tidyverse, dplyr (>= 0.7.4), readr, tibble (>= 1.4.2),
         tidyr, ggplot2, plotly
 Suggests: knitr, gutenbergr, rmarkdown, testthat, lintr, gridExtra
 License: GPL-2
-MD5sum: c4aaccd81b118d1ef726e3f1c9261647
+MD5sum: d25c609bbc983fd3314821b1368c2f84
 NeedsCompilation: no
 
 Package: jrTidyverse2
