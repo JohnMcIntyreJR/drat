@@ -181,7 +181,7 @@ Imports: bookdown, cli, config, crayon, digest, dplyr, fs, gert, glue,
         spelling, stringr, tibble, tufte (>= 0.4)
 Suggests: drat, formatR, lintr, rmarkdown (>= 1.12), testthat
 License: GPL-3
-MD5sum: 11b6b52c712ba2d713e2761d7c7097db
+MD5sum: 2ff87297761e4b98558388f82be84c10
 NeedsCompilation: no
 
 Package: jroreillyregression
