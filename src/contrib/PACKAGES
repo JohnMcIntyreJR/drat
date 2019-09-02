@@ -163,13 +163,13 @@ MD5sum: 9742125b7917bd4be3185ba3d35c9cf6
 NeedsCompilation: no
 
 Package: jrModelling
-Version: 0.1.1
+Version: 0.1.2
 Depends: R (>= 3.5.0)
 Imports: coin, shiny, ggplot2, titanic, mvtnorm, rmarkdown, tufte,
-        gridExtra, broom, tibble
+        gridExtra, broom, tidyverse
 Suggests: survival, knitr, jrData, testthat, lintr, cowsay, DT
 License: GPL-3 | GPL-2
-MD5sum: 73cfe357b3551e6cb30b2af30edcfbf4
+MD5sum: 75279849932683aec13066cc5b8f9456
 NeedsCompilation: no
 
 Package: jrNotes
