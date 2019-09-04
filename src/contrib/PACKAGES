@@ -226,13 +226,13 @@ MD5sum: 0c27710e3760a4803475bb9505d99ce6
 NeedsCompilation: no
 
 Package: jrPresentation
-Version: 0.1.20
+Version: 0.1.20.0001
 Imports: config, countdown, digest, fs, knitr (>= 1.20), lintr,
         rmarkdown (>= 1.10), rsconnect (>= 0.8.11), stringr, xaringan
         (>= 0.8)
 Suggests: testthat
 License: GPL-2 | GPL-3
-MD5sum: 134232412a927cc56e8331092fbe64d4
+MD5sum: 222f0b8d1ba92694f76e636075330408
 NeedsCompilation: no
 
 Package: jrProgBio
