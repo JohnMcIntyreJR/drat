@@ -307,7 +307,7 @@ Depends: R (>= 3.5.0)
 Imports: raster, sf, tidyverse, tmap
 Suggests: knitr, lintr, testthat, webshot
 License: GPL-2
-MD5sum: dff63067c7e290c0c795123498b17b7b
+MD5sum: 0bc4ccb74d37ee44223715d276ded3fb
 NeedsCompilation: no
 
 Package: jRsql
