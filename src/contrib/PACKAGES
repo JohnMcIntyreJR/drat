@@ -305,9 +305,9 @@ Package: jrSpatial
 Version: 0.1.2
 Depends: R (>= 3.5.0)
 Imports: raster, sf, tidyverse, tmap
-Suggests: lintr, testthat, knitr
+Suggests: knitr, lintr, testthat, webshot
 License: GPL-2
-MD5sum: ae6ebe0a1c2ba1c03811113f58199dfd
+MD5sum: 4aa8cfb3e50a5be8c81ff7df51d0fde5
 NeedsCompilation: no
 
 Package: jRsql
