@@ -118,10 +118,10 @@ Package: jrEfficient
 Version: 0.1.4
 Depends: R (>= 3.3.0)
 Imports: bench, benchmarkme, pryr, rbenchmark
-Suggests: formatR, fortunes, ggbeeswarm, knitr, lintr, readr, testthat,
-        tufte
+Suggests: formatR, fortunes, ggbeeswarm, ggplot2, knitr, lintr, readr,
+        testthat, tidyr, tufte
 License: GPL-3
-MD5sum: 53db1a88187cd0d949643407024dccfd
+MD5sum: 53bc6fec53b1a8bbe118040998c61ab2
 NeedsCompilation: no
 
 Package: jrGgplot2
