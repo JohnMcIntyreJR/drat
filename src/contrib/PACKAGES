@@ -116,12 +116,12 @@ NeedsCompilation: no
 
 Package: jrEfficient
 Version: 0.1.4
-Depends: R (>= 3.2.0)
-Imports: rbenchmark, jrData, bench
-Suggests: knitr, readr, tufte, formatR, testthat, lintr, fortunes,
-        benchmarkme, ggbeeswarm
+Depends: R (>= 3.3.0)
+Imports: bench, benchmarkme, pryr, rbenchmark
+Suggests: formatR, fortunes, ggbeeswarm, knitr, lintr, readr, testthat,
+        tufte
 License: GPL-3
-MD5sum: 983523943fa5abe99435fc2bb6be8734
+MD5sum: 53db1a88187cd0d949643407024dccfd
 NeedsCompilation: no
 
 Package: jrGgplot2
