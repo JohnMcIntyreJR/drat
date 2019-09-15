@@ -308,7 +308,7 @@ Depends: R (>= 3.5.0)
 Imports: raster, sf, dplyr, tidyr, tmap, ggplot2, leaflet
 Suggests: knitr, lintr, testthat, tufte, webshot
 License: GPL-2
-MD5sum: ec23ca54a1eba07ff2671bf144aac392
+MD5sum: 4b0859d11a2a97407ea58821db38f01c
 NeedsCompilation: no
 
 Package: jRsql
