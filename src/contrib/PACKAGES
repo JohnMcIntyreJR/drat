@@ -303,12 +303,12 @@ MD5sum: 9ddbbff741e2e6bf5585e05f3d7936ba
 NeedsCompilation: no
 
 Package: jrSpatial
-Version: 0.1.4
+Version: 0.1.5
 Depends: R (>= 3.5.0)
 Imports: raster, sf, dplyr, tidyr, tmap, ggplot2, leaflet
 Suggests: knitr, lintr, testthat, tufte, webshot
 License: GPL-2
-MD5sum: 4b0859d11a2a97407ea58821db38f01c
+MD5sum: 6f663497c2ea95a28bb488a2d0348925
 NeedsCompilation: no
 
 Package: jRsql
