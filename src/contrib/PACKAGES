@@ -345,7 +345,7 @@ Imports: tidyverse, tidytext, broom, magrittr, GGally, repurrrsive,
         igraph, ggraph
 Suggests: knitr, rmarkdown, testthat, lintr
 License: GPL-2
-MD5sum: 81a7f874d6a5b3a7cd3e3b96bb9c179a
+MD5sum: 2c80478a0feba676f2a5eda881c133e5
 NeedsCompilation: no
 
 Package: jrWhyR
