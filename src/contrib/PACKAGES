@@ -312,15 +312,6 @@ License: GPL-2
 MD5sum: 6f663497c2ea95a28bb488a2d0348925
 NeedsCompilation: no
 
-Package: jrSql
-Version: 0.1.0
-Depends: R (>= 3.2.0)
-Imports: dplyr (>= 0.7.0), odbc, DBI
-Suggests: knitr, tufte, rmarkdown, formatR
-License: GPL-3
-MD5sum: 46224b73f58de220da090f1b60ce783c
-NeedsCompilation: no
-
 Package: jRsql
 Version: 0.1.0
 Depends: R (>= 3.2.0),
@@ -328,6 +319,15 @@ Imports: dplyr (>= 0.7.0), RPostgreSQL
 Suggests: knitr, tufte, rmarkdown, formatR
 License: GPL-3
 MD5sum: 7a370fe5593b9021266f33ac2cccc883
+NeedsCompilation: no
+
+Package: jrSql
+Version: 0.1.1
+Depends: R (>= 3.2.0)
+Imports: dplyr (>= 0.7.0), odbc, DBI, RPostgreSQL
+Suggests: knitr, tufte, rmarkdown, formatR
+License: GPL-3
+MD5sum: 0cbbc56a359f50c6e9aa4996c38b28d8
 NeedsCompilation: no
 
 Package: jrTesting
