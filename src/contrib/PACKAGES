@@ -137,11 +137,11 @@ NeedsCompilation: no
 Package: jrIntroBio
 Version: 0.2.0
 Depends: R (>= 3.2.0)
-Imports: ggplot2movies, dplyr (>= 0.7.0), readr, readxl, jrData,
-        ggplot2, tibble
-Suggests: knitr, tufte, rmarkdown, formatR, testthat, lintr
+Imports: dplyr (>= 0.7.0), ggplot2, ggplot2movies, jrData,
+        jrIntroduction, readr, readxl, tibble
+Suggests: formatR, knitr, lintr, rmarkdown, testthat, tufte
 License: GPL-3
-MD5sum: 4b46226c1bf62e66652444894e3a5e04
+MD5sum: 5368b8b6e0a6585b226af6d14b4d6f8b
 NeedsCompilation: no
 
 Package: jrIntroduction
