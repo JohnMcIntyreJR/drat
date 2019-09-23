@@ -145,13 +145,13 @@ MD5sum: 5368b8b6e0a6585b226af6d14b4d6f8b
 NeedsCompilation: no
 
 Package: jrIntroduction
-Version: 1.0.1
+Version: 1.0.2
 Depends: R (>= 3.2.0)
-Imports: dplyr (>= 0.7.0), ggplot2, ggplot2movies, readr, readxl
+Imports: dplyr (>= 0.7.0), ggplot2, ggplot2movies, readr, readxl, tidyr
 Suggests: formatR, gridExtra, hrbrthemes, knitr, lintr, rmarkdown,
-        testthat, tufte
+        testthat, tufte, knitr
 License: GPL-3
-MD5sum: 732332e0000d4c8fa9b4424860eb9388
+MD5sum: 7fa20b0bc67cdc43d731d8dfc9c9ac1e
 NeedsCompilation: no
 
 Package: jrIntroductionRSS
