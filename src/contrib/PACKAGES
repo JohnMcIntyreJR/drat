@@ -290,7 +290,7 @@ Suggests: d3heatmap, drat, dygraphs, edgebundleR, flexdashboard,
         formattable, ggiraph, gridSVG, htmlwidgets, lintr, MASS,
         networkD3, rsconnect, sparkline, svglite, svgPanZoom, testthat
 License: CC0
-MD5sum: 05c69c4e41223843eb9aa888d04d2a0c
+MD5sum: 638f83023dc22af8e81e916c8d428d5d
 NeedsCompilation: no
 
 Package: jrSouth
