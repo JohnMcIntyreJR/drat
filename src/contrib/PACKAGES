@@ -307,9 +307,9 @@ Package: jrSpatial
 Version: 0.1.5
 Depends: R (>= 3.5.0)
 Imports: raster, sf, dplyr, tidyr, tmap, ggplot2, leaflet
-Suggests: knitr, lintr, testthat, tufte, webshot
+Suggests: DT, knitr, lintr, testthat, tufte, webshot
 License: GPL-2
-MD5sum: 6f663497c2ea95a28bb488a2d0348925
+MD5sum: f7209e98350c46461d1afd622752695b
 NeedsCompilation: no
 
 Package: jRsql
