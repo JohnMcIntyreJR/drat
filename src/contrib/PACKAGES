@@ -175,15 +175,16 @@ MD5sum: 75279849932683aec13066cc5b8f9456
 NeedsCompilation: no
 
 Package: jrNotes
-Version: 0.5.0.0018
+Version: 0.5.0.0019
 Depends: R (>= 3.4.0)
 Imports: bookdown, cli, config, crayon, digest, dplyr, fs, gert, glue,
         httr, jrData, jrPresentation (>= 0.1.18), knitr (>= 1.22),
-        namer (>= 0.1.4), praise, purrr, qpdf, reticulate (>= 1.11.1),
-        spelling, stringr, tibble, tufte (>= 0.4)
-Suggests: drat, formatR, lintr, rmarkdown (>= 1.12), testthat
+        lintr (>= 2.0.0), namer (>= 0.1.4), praise, purrr, qpdf,
+        reticulate (>= 1.11.1), spelling, stringr, tibble, tufte (>=
+        0.4)
+Suggests: drat, formatR, rmarkdown (>= 1.12), testthat
 License: GPL-3
-MD5sum: 1f3d0e1c697f6bdcc23a5cecf410e24c
+MD5sum: 94b3ab24432ae97d9da2b74dd4eedc7c
 NeedsCompilation: no
 
 Package: jrOOP
