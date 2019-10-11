@@ -329,7 +329,7 @@ Depends: R (>= 3.2.0)
 Imports: dplyr (>= 0.7.0), odbc, DBI, RPostgreSQL
 Suggests: knitr, tufte, rmarkdown, formatR
 License: GPL-3
-MD5sum: 9e12019cbbcf2fe6500518e1c40953f0
+MD5sum: be1af9b3a9fa8927476139532334e2c6
 NeedsCompilation: no
 
 Package: jrTesting
