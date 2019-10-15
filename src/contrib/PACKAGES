@@ -75,16 +75,15 @@ MD5sum: b78bb39f18cf324a43eb88f5e220563b
 NeedsCompilation: no
 
 Package: jrAutomate
-Version: 0.1.4
+Version: 0.1.7
 Depends: R (>= 3.3)
-Imports: utils, ggplot2movies, drat
-Suggests: knitr, shiny, formattable, edgebundleR,
-        DT,d3heatmap,networkD3, ggplot2, gridSVG, svgPanZoom,svglite,
-        MASS, htmlwidgets, ggiraph, sparkline, rmarkdown,
-        flexdashboard,plotly,dygraphs, rsconnect, revealjs, tufte,
-        formatR, testthat, lintr
+Imports: drat, ggplot2movies, utils
+Suggests: d3heatmap, DT, dygraphs, edgebundleR, flexdashboard, formatR,
+        formattable, ggiraph, ggplot2, gridSVG, htmlwidgets, knitr,
+        MASS, networkD3, plotly, revealjs, rmarkdown, rsconnect, shiny,
+        sparkline, svglite, svgPanZoom, tufte
 License: CC0
-MD5sum: 9acecf7c0be1061f85b59096548074a9
+MD5sum: 189d74f4e0634fa22408f7ad7d2148a1
 NeedsCompilation: no
 
 Package: jrBig
