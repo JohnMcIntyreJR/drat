@@ -83,7 +83,7 @@ Suggests: d3heatmap, DT, dygraphs, edgebundleR, flexdashboard, formatR,
         MASS, networkD3, plotly, revealjs, rmarkdown, rsconnect, shiny,
         sparkline, svglite, svgPanZoom, tufte
 License: CC0
-MD5sum: 189d74f4e0634fa22408f7ad7d2148a1
+MD5sum: ac5ffdd7fd9fd60486cff336a3ea8463
 NeedsCompilation: no
 
 Package: jrBig
