@@ -349,14 +349,14 @@ MD5sum: d25c609bbc983fd3314821b1368c2f84
 NeedsCompilation: no
 
 Package: jrTidyverse2
-Version: 0.1.1
+Version: 0.1.2
 Depends: R (>= 3.4.0)
 Imports: tidyverse, tidytext, broom, magrittr, GGally, repurrrsive,
         wordcloud, gutenbergr, ggplot2movies, hrbrthemes, ggthemes,
         igraph, ggraph
 Suggests: knitr, rmarkdown, lintr, htmlwidgets
 License: GPL-2
-MD5sum: 792e067a99b8b573b83525fb0aab5735
+MD5sum: dd5337656fefeae32b6fae5f1e846993
 NeedsCompilation: no
 
 Package: jrWhyR
