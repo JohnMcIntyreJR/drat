@@ -258,10 +258,10 @@ NeedsCompilation: no
 Package: jrProgramming
 Version: 0.1.9
 Depends: R (>= 3.2.0)
-Imports: ggplot2movies, dplyr, ggplot2, tibble
-Suggests: knitr, tufte, rmarkdown, formatR
+Imports: dplyr, ggplot2, ggplot2movies, tibble
+Suggests: formatR, knitr, rmarkdown, tufte
 License: GPL-3
-MD5sum: e696f998cff0d454213e19adc727b024
+MD5sum: 13409fff171d5f038a86cb5fbddccc51
 NeedsCompilation: no
 
 Package: jrRssprogramming
