@@ -147,10 +147,10 @@ Package: jrIntroduction
 Version: 1.0.4
 Depends: R (>= 3.2.0)
 Imports: dplyr (>= 0.7.0), ggplot2, ggplot2movies, readr, readxl
-Suggests: formatR, gridExtra, hrbrthemes, knitr, lintr, rmarkdown,
-        testthat, tufte, tidyr, lubridate
+Suggests: formatR, gridExtra, hrbrthemes, knitr, lintr, lubridate,
+        rmarkdown, testthat, tidyr, tufte
 License: GPL-3
-MD5sum: 7970a8b91834de7c32061614b080037f
+MD5sum: b83711dda917e38e9ffdd9920b05bc79
 NeedsCompilation: no
 
 Package: jrIntroductionRSS
