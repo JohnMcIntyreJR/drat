@@ -293,6 +293,15 @@ License: CC0
 MD5sum: 638f83023dc22af8e81e916c8d428d5d
 NeedsCompilation: no
 
+Package: jrSlides
+Version: 0.0.1
+Imports: clisymbols, config, crayon, digest, fs, glue, lintr, rmarkdown
+        (>= 1.10), rsconnect (>= 0.8.11), stringr
+Suggests: countdown, knitr (>= 1.20), xaringan (>= 0.10)
+License: GPL-2 | GPL-3
+MD5sum: 4c385cc15f2b50266ea4f36353e8b769
+NeedsCompilation: no
+
 Package: jrSouth
 Version: 0.1.1
 Depends: R (>= 3.5.0)
