@@ -150,7 +150,7 @@ Imports: dplyr (>= 0.7.0), ggplot2, ggplot2movies, readr, readxl
 Suggests: formatR, gridExtra, hrbrthemes, knitr, lintr, lubridate,
         rmarkdown, testthat, tidyr, tufte
 License: GPL-3
-MD5sum: 896931d3681c1cf35a69c70665fe2d6a
+MD5sum: 2ac853f53f907164766866df56836c3f
 NeedsCompilation: no
 
 Package: jrIntroductionRSS
