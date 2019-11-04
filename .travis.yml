@@ -11,6 +11,16 @@ notifications:
 r_packages:
   - drat
 
+r_github_packages:
+  - jumpingrivers/inteRgrate
+
+script:
+  - Rscript -e "inteRgrate::check_pkg()"
+  - Rscript -e "inteRgrate::check_r_filenames()"
+  - Rscript -e "inteRgrate::check_tidy_description()"
+  - Rscript -e "inteRgrate::check_lintr()"
+  - Rscript -e "inteRgrate::check_namespace()"
+
 before_install:
   - tlmgr install fancyvrb units
 
